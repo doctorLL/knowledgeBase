@@ -1,0 +1,69 @@
+filters:
+  and:
+    - 'file.inFolder("02-知识点/第二章")'
+    - 'file.ext == "md"'
+    - 'note["类型"] == "知识点"'
+    - 'note["所属章节"] == "第二章"'
+properties:
+  file.name:
+    displayName: 知识点
+  note.知识点编号:
+    displayName: 编号
+  note.分类:
+    displayName: 分类
+  note.掌握程度:
+    displayName: 掌握程度
+  note.核对状态:
+    displayName: 核对状态
+  note.最近复习:
+    displayName: 最近复习
+  note.正文:
+    displayName: 正文出处
+views:
+  - type: table
+    name: 全部知识点
+    order:
+      - file.name
+      - note.分类
+      - note.掌握程度
+      - note.核对状态
+      - note.最近复习
+      - note.正文
+    sort:
+      - property: note.知识点编号
+        direction: ASC
+  - type: table
+    name: 待复习
+    filters:
+      and:
+        - 'note["掌握程度"] != "掌握"'
+    order:
+      - file.name
+      - note.分类
+      - note.掌握程度
+      - note.最近复习
+      - note.核对状态
+    sort:
+      - property: note.知识点编号
+        direction: ASC
+  - type: table
+    name: 易错知识点
+    filters:
+      and:
+        - 'note["掌握程度"] == "易错"'
+    order:
+      - file.name
+      - note.分类
+      - note.最近复习
+      - note.正文
+  - type: table
+    name: 待核对
+    filters:
+      and:
+        - 'note["核对状态"] == "待教材核对"'
+    order:
+      - file.name
+      - note.分类
+      - note.核对状态
+      - note.掌握程度
+      - note.正文

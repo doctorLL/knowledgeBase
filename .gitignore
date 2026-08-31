@@ -8,3 +8,14 @@
 # Obsidian local cache and trash
 .obsidian/cache/
 .trash/
+
+# Local agent/editor tools config (not part of the vault)
+.agents/
+.claude/
+.opencode/
+copilot/
+
+# Obsidian community plugins & themes (local installs)
+.obsidian/community-plugins.json
+.obsidian/plugins/
+.obsidian/themes/
