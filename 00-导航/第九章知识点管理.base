@@ -1,9 +1,9 @@
 filters:
   and:
-    - file.inFolder("02-知识点/第六章")
-    - file.ext == "md"
-    - note["类型"] == "知识点"
-    - note["所属章节"] == "第六章"
+    - 'file.inFolder("02-知识点/第九章")'
+    - 'file.ext == "md"'
+    - 'note["类型"] == "知识点"'
+    - 'note["所属章节"] == "第九章"'
 properties:
   file.name:
     displayName: 知识点
@@ -24,46 +24,46 @@ views:
     name: 全部知识点
     order:
       - file.name
-      - 分类
-      - 掌握程度
-      - 核对状态
-      - 最近复习
-      - 正文
+      - note.分类
+      - note.掌握程度
+      - note.核对状态
+      - note.最近复习
+      - note.正文
     sort:
-      - property: 知识点编号
+      - property: note.知识点编号
         direction: ASC
   - type: table
     name: 待复习
     filters:
       and:
-        - note["掌握程度"] != "掌握"
+        - 'note["掌握程度"] != "掌握"'
     order:
       - file.name
-      - 分类
-      - 掌握程度
-      - 最近复习
-      - 核对状态
+      - note.分类
+      - note.掌握程度
+      - note.最近复习
+      - note.核对状态
     sort:
-      - property: 知识点编号
+      - property: note.知识点编号
         direction: ASC
   - type: table
     name: 易错知识点
     filters:
       and:
-        - note["掌握程度"] == "易错"
+        - 'note["掌握程度"] == "易错"'
     order:
       - file.name
-      - 分类
-      - 最近复习
-      - 正文
+      - note.分类
+      - note.最近复习
+      - note.正文
   - type: table
     name: 待核对
     filters:
       and:
-        - note["核对状态"] == "待教材核对"
+        - 'note["核对状态"] == "待教材核对"'
     order:
       - file.name
-      - 分类
-      - 核对状态
-      - 掌握程度
-      - 正文
+      - note.分类
+      - note.核对状态
+      - note.掌握程度
+      - note.正文

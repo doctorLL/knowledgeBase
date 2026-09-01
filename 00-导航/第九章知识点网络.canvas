@@ -1,0 +1,532 @@
+{
+  "nodes": [
+    {
+      "id": "5b77e6a2884b1e63",
+      "type": "group",
+      "x": 0,
+      "y": 360,
+      "width": 520,
+      "height": 1540,
+      "label": "PMBOK与项目基础",
+      "color": "1"
+    },
+    {
+      "id": "104646878e0dffff",
+      "type": "text",
+      "x": 45,
+      "y": 420,
+      "width": 430,
+      "height": 140,
+      "text": "# PMBOK与项目基础\n\n按编号向下阅读本主题卡片。",
+      "color": "1"
+    },
+    {
+      "id": "aa80a58347b2d6b9",
+      "type": "file",
+      "x": 45,
+      "y": 620,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第九章/PMBOK项目管理知识体系.md",
+      "subpath": "#卡片速览",
+      "color": "1"
+    },
+    {
+      "id": "1eaec5c905f50bff",
+      "type": "file",
+      "x": 45,
+      "y": 915,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第九章/项目定义与结束情形.md",
+      "subpath": "#卡片速览",
+      "color": "1"
+    },
+    {
+      "id": "92fb07323999a681",
+      "type": "file",
+      "x": 45,
+      "y": 1210,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第九章/项目成功标准与管理不善后果.md",
+      "subpath": "#卡片速览",
+      "color": "1"
+    },
+    {
+      "id": "4c0f3ad0ef9ee6f7",
+      "type": "group",
+      "x": 560,
+      "y": 360,
+      "width": 520,
+      "height": 1540,
+      "label": "项目集与项目组合",
+      "color": "2"
+    },
+    {
+      "id": "0c78415028502112",
+      "type": "text",
+      "x": 605,
+      "y": 420,
+      "width": 430,
+      "height": 140,
+      "text": "# 项目集与项目组合\n\n按编号向下阅读本主题卡片。",
+      "color": "2"
+    },
+    {
+      "id": "398cc186adfb0e4b",
+      "type": "file",
+      "x": 605,
+      "y": 620,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第九章/项目集与项目组合.md",
+      "subpath": "#卡片速览",
+      "color": "2"
+    },
+    {
+      "id": "de158c2d29c127dd",
+      "type": "file",
+      "x": 605,
+      "y": 915,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第九章/项目集管理措施.md",
+      "subpath": "#卡片速览",
+      "color": "2"
+    },
+    {
+      "id": "4f9a4cb1a5c82564",
+      "type": "file",
+      "x": 605,
+      "y": 1210,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第九章/项目组合管理目的.md",
+      "subpath": "#卡片速览",
+      "color": "2"
+    },
+    {
+      "id": "167f5456acdbaf11",
+      "type": "file",
+      "x": 605,
+      "y": 1505,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第九章/三个管理层级关注点.md",
+      "subpath": "#卡片速览",
+      "color": "2"
+    },
+    {
+      "id": "d089fce89fd46ef2",
+      "type": "group",
+      "x": 1120,
+      "y": 360,
+      "width": 520,
+      "height": 1540,
+      "label": "项目与运营",
+      "color": "3"
+    },
+    {
+      "id": "c1d6f9f57cb4a844",
+      "type": "text",
+      "x": 1165,
+      "y": 420,
+      "width": 430,
+      "height": 140,
+      "text": "# 项目与运营\n\n按编号向下阅读本主题卡片。",
+      "color": "3"
+    },
+    {
+      "id": "eb3d490be28980e1",
+      "type": "file",
+      "x": 1165,
+      "y": 620,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第九章/项目与运营边界.md",
+      "subpath": "#卡片速览",
+      "color": "3"
+    },
+    {
+      "id": "839add7e0ea989c7",
+      "type": "group",
+      "x": 1680,
+      "y": 360,
+      "width": 520,
+      "height": 1540,
+      "label": "组织环境与过程资产",
+      "color": "4"
+    },
+    {
+      "id": "97bf43e8d20eeebf",
+      "type": "text",
+      "x": 1725,
+      "y": 420,
+      "width": 430,
+      "height": 140,
+      "text": "# 组织环境与过程资产\n\n按编号向下阅读本主题卡片。",
+      "color": "4"
+    },
+    {
+      "id": "49c7fb47d76016df",
+      "type": "file",
+      "x": 1725,
+      "y": 620,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第九章/组织内外因素.md",
+      "subpath": "#卡片速览",
+      "color": "4"
+    },
+    {
+      "id": "7a5de74f01b7446f",
+      "type": "file",
+      "x": 1725,
+      "y": 915,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第九章/组织过程资产.md",
+      "subpath": "#卡片速览",
+      "color": "4"
+    },
+    {
+      "id": "407ded7cfc9e1746",
+      "type": "file",
+      "x": 1725,
+      "y": 1210,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第九章/组织系统影响因素.md",
+      "subpath": "#卡片速览",
+      "color": "4"
+    },
+    {
+      "id": "dd8d13b3faf88ab2",
+      "type": "group",
+      "x": 2240,
+      "y": 360,
+      "width": 520,
+      "height": 1540,
+      "label": "PMO",
+      "color": "5"
+    },
+    {
+      "id": "11fe20e8e3ea8595",
+      "type": "text",
+      "x": 2285,
+      "y": 420,
+      "width": 430,
+      "height": 140,
+      "text": "# PMO\n\n按编号向下阅读本主题卡片。",
+      "color": "5"
+    },
+    {
+      "id": "9667e023a5693a71",
+      "type": "file",
+      "x": 2285,
+      "y": 620,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第九章/PMO三种类型.md",
+      "subpath": "#卡片速览",
+      "color": "5"
+    },
+    {
+      "id": "750c0518c7145871",
+      "type": "file",
+      "x": 2285,
+      "y": 915,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第九章/PMO职责.md",
+      "subpath": "#卡片速览",
+      "color": "5"
+    },
+    {
+      "id": "c432b372e0e30267",
+      "type": "text",
+      "x": 850,
+      "y": 20,
+      "width": 1100,
+      "height": 240,
+      "text": "# 第九章知识点网络\n\n13 张卡片 · 5 个主题\n主线：项目基础 → 项目集与项目组合 → 运营边界 → 组织环境与资产 → PMO\n颜色表示主题，带文字的跨组连线表示概念关系。",
+      "color": "6"
+    },
+    {
+      "y": 2100,
+      "x": 0,
+      "id": "e000000000000001",
+      "width": 2760,
+      "type": "group",
+      "height": 650,
+      "color": "6",
+      "label": "跨章节复用"
+    },
+    {
+      "id": "e000000000000002",
+      "height": 230,
+      "file": "02-知识点/第一章/信息系统生命周期.md",
+      "y": 2300,
+      "width": 410,
+      "color": "6",
+      "x": 50,
+      "type": "file",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "e000000000000003",
+      "height": 230,
+      "file": "02-知识点/第三章/服务质量五特性.md",
+      "y": 2300,
+      "width": 410,
+      "color": "6",
+      "x": 500,
+      "type": "file",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "e000000000000004",
+      "height": 230,
+      "file": "02-知识点/第五章/需求变更与CCB.md",
+      "y": 2300,
+      "width": 410,
+      "color": "6",
+      "x": 950,
+      "type": "file",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "e000000000000005",
+      "height": 230,
+      "file": "02-知识点/第五章/软件配置管理SCM.md",
+      "y": 2300,
+      "width": 410,
+      "color": "6",
+      "x": 1400,
+      "type": "file",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "e000000000000006",
+      "height": 230,
+      "file": "02-知识点/第三章/服务集成与实践.md",
+      "y": 2300,
+      "width": 410,
+      "color": "6",
+      "x": 1850,
+      "type": "file",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "e000000000000007",
+      "height": 230,
+      "file": "02-知识点/第五章/软件质量保证SQA.md",
+      "y": 2300,
+      "width": 410,
+      "color": "6",
+      "x": 2300,
+      "type": "file",
+      "subpath": "#卡片速览"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3b8528d1ff5b3f1e",
+      "fromNode": "104646878e0dffff",
+      "toNode": "aa80a58347b2d6b9",
+      "label": "卡片入口"
+    },
+    {
+      "id": "8bcaae0127e42086",
+      "fromNode": "104646878e0dffff",
+      "toNode": "1eaec5c905f50bff",
+      "label": "卡片入口"
+    },
+    {
+      "id": "76c0b7c676d39ed7",
+      "fromNode": "104646878e0dffff",
+      "toNode": "92fb07323999a681",
+      "label": "卡片入口"
+    },
+    {
+      "id": "7e7b2ff49db0fbd9",
+      "fromNode": "0c78415028502112",
+      "toNode": "398cc186adfb0e4b",
+      "label": "卡片入口"
+    },
+    {
+      "id": "7a9224396c2bad79",
+      "fromNode": "0c78415028502112",
+      "toNode": "de158c2d29c127dd",
+      "label": "卡片入口"
+    },
+    {
+      "id": "fd8fa1ab3ad11dba",
+      "fromNode": "0c78415028502112",
+      "toNode": "4f9a4cb1a5c82564",
+      "label": "卡片入口"
+    },
+    {
+      "id": "c32c660ae683638d",
+      "fromNode": "0c78415028502112",
+      "toNode": "167f5456acdbaf11",
+      "label": "卡片入口"
+    },
+    {
+      "id": "910b1bec1d8f1ac1",
+      "fromNode": "c1d6f9f57cb4a844",
+      "toNode": "eb3d490be28980e1",
+      "label": "卡片入口"
+    },
+    {
+      "id": "9d38e47e5f45fb20",
+      "fromNode": "97bf43e8d20eeebf",
+      "toNode": "49c7fb47d76016df",
+      "label": "卡片入口"
+    },
+    {
+      "id": "aeb7f9f4e696ded1",
+      "fromNode": "97bf43e8d20eeebf",
+      "toNode": "7a5de74f01b7446f",
+      "label": "卡片入口"
+    },
+    {
+      "id": "52cf152694c89a66",
+      "fromNode": "97bf43e8d20eeebf",
+      "toNode": "407ded7cfc9e1746",
+      "label": "卡片入口"
+    },
+    {
+      "id": "60d4a75eb481bbab",
+      "fromNode": "11fe20e8e3ea8595",
+      "toNode": "9667e023a5693a71",
+      "label": "卡片入口"
+    },
+    {
+      "id": "16f2391581ae91a9",
+      "fromNode": "11fe20e8e3ea8595",
+      "toNode": "750c0518c7145871",
+      "label": "卡片入口"
+    },
+    {
+      "id": "5955c87a174352e5",
+      "fromNode": "aa80a58347b2d6b9",
+      "toNode": "1eaec5c905f50bff",
+      "label": "知识体系→基本对象",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "67cd7291221a867b",
+      "fromNode": "1eaec5c905f50bff",
+      "toNode": "92fb07323999a681",
+      "label": "定义→评价",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "be3c386ae08e8bca",
+      "fromNode": "1eaec5c905f50bff",
+      "toNode": "eb3d490be28980e1",
+      "label": "临时性辨识",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "d584afd8e745e1cc",
+      "fromNode": "398cc186adfb0e4b",
+      "toNode": "de158c2d29c127dd",
+      "label": "定义→管理",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "cc5194c35dd92977",
+      "fromNode": "398cc186adfb0e4b",
+      "toNode": "4f9a4cb1a5c82564",
+      "label": "定义→战略",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "aa78d561dd9ac2ec",
+      "fromNode": "de158c2d29c127dd",
+      "toNode": "167f5456acdbaf11",
+      "label": "协调层级",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "63bdc0c942ee4c87",
+      "fromNode": "4f9a4cb1a5c82564",
+      "toNode": "167f5456acdbaf11",
+      "label": "战略层级",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "26d85ff556ccfcd5",
+      "fromNode": "49c7fb47d76016df",
+      "toNode": "407ded7cfc9e1746",
+      "label": "环境影响",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "b94f47197e5a245b",
+      "fromNode": "7a5de74f01b7446f",
+      "toNode": "750c0518c7145871",
+      "label": "维护资产",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "5a9c1e29436867f0",
+      "fromNode": "407ded7cfc9e1746",
+      "toNode": "9667e023a5693a71",
+      "label": "组织影响",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "057577fd4e4164e9",
+      "fromNode": "9667e023a5693a71",
+      "toNode": "750c0518c7145871",
+      "label": "类型→职责",
+      "toEnd": "arrow"
+    },
+    {
+      "toNode": "e000000000000002",
+      "fromNode": "1eaec5c905f50bff",
+      "toEnd": "arrow",
+      "id": "d000000000000001",
+      "label": "生命周期联系"
+    },
+    {
+      "toNode": "e000000000000003",
+      "fromNode": "92fb07323999a681",
+      "toEnd": "arrow",
+      "id": "d000000000000002",
+      "label": "质量维度比较"
+    },
+    {
+      "toNode": "e000000000000004",
+      "fromNode": "de158c2d29c127dd",
+      "toEnd": "arrow",
+      "id": "d000000000000003",
+      "label": "变更治理比较"
+    },
+    {
+      "toNode": "e000000000000005",
+      "fromNode": "7a5de74f01b7446f",
+      "toEnd": "arrow",
+      "id": "d000000000000004",
+      "label": "配置资产"
+    },
+    {
+      "toNode": "e000000000000006",
+      "fromNode": "7a5de74f01b7446f",
+      "toEnd": "arrow",
+      "id": "d000000000000005",
+      "label": "知识沉淀"
+    },
+    {
+      "toNode": "e000000000000007",
+      "fromNode": "750c0518c7145871",
+      "toEnd": "arrow",
+      "id": "d000000000000006",
+      "label": "审计职责比较"
+    }
+  ]
+}
