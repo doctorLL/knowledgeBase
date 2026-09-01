@@ -1,4 +1,9 @@
 {
-  "theme": "moonstone",
-  "cssTheme": "Blue Topaz"
+  "theme": "obsidian",
+  "cssTheme": "Blue Topaz",
+  "interfaceFontFamily": "Arial Black",
+  "textFontFamily": "yyb,微软雅黑",
+  "monospaceFontFamily": "Maple Mono NF CN",
+  "baseFontSize": 18,
+  "baseFontSizeAction": false
 }
