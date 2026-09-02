@@ -1,0 +1,911 @@
+{
+  "nodes": [
+    {
+      "id": "0000000000000001",
+      "type": "text",
+      "x": 800,
+      "y": 0,
+      "width": 620,
+      "height": 280,
+      "text": "# 第七章 · 系统集成\n\n16 张卡片 · 4 个主题 · 15 张跨章卡片\n\n[[00-导航/第七章知识点索引|索引]] · [[00-导航/第七章知识点管理.base|管理进度]]\n\n从集成对象、支撑技术、组件到业务应用；分类不等于执行顺序。"
+    },
+    {
+      "id": "0000000000000002",
+      "type": "group",
+      "x": 0,
+      "y": 390,
+      "width": 500,
+      "height": 2210,
+      "label": "系统集成基础",
+      "color": "2"
+    },
+    {
+      "id": "0000000000000003",
+      "type": "text",
+      "x": 35,
+      "y": 455,
+      "width": 430,
+      "height": 175,
+      "text": "## 系统集成基础\n\n阅读分组，不代表概念之间的包含或执行顺序。",
+      "color": "2"
+    },
+    {
+      "id": "0000000000000005",
+      "type": "file",
+      "x": 35,
+      "y": 730,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第七章/系统集成分类与四定位.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000007",
+      "type": "file",
+      "x": 35,
+      "y": 1030,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第七章/典型系统集成特点.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000009",
+      "type": "file",
+      "x": 35,
+      "y": 1330,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第七章/信创集成关注点.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000000b",
+      "type": "group",
+      "x": 560,
+      "y": 390,
+      "width": 500,
+      "height": 2210,
+      "label": "基础设施集成",
+      "color": "3"
+    },
+    {
+      "id": "000000000000000c",
+      "type": "text",
+      "x": 595,
+      "y": 455,
+      "width": 430,
+      "height": 175,
+      "text": "## 基础设施集成\n\n阅读分组，不代表概念之间的包含或执行顺序。",
+      "color": "3"
+    },
+    {
+      "id": "000000000000000e",
+      "type": "file",
+      "x": 595,
+      "y": 730,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第七章/基础设施分类与集成范围.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000010",
+      "type": "file",
+      "x": 595,
+      "y": 1030,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第七章/网络集成子系统与介质.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000012",
+      "type": "file",
+      "x": 595,
+      "y": 1330,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第七章/网络交换集成口径.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000014",
+      "type": "file",
+      "x": 595,
+      "y": 1630,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第七章/数据中心集成.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000016",
+      "type": "group",
+      "x": 1120,
+      "y": 390,
+      "width": 500,
+      "height": 2210,
+      "label": "软件与组件集成",
+      "color": "4"
+    },
+    {
+      "id": "0000000000000017",
+      "type": "text",
+      "x": 1155,
+      "y": 455,
+      "width": 430,
+      "height": 175,
+      "text": "## 软件与组件集成\n\n阅读分组，不代表概念之间的包含或执行顺序。",
+      "color": "4"
+    },
+    {
+      "id": "0000000000000019",
+      "type": "file",
+      "x": 1155,
+      "y": 730,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第七章/操作系统分类与功能.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000001b",
+      "type": "file",
+      "x": 1155,
+      "y": 1030,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第七章/数据库集成工作.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000001d",
+      "type": "file",
+      "x": 1155,
+      "y": 1330,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第七章/中间件定位与集成支持.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000001f",
+      "type": "file",
+      "x": 1155,
+      "y": 1630,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第七章/CORBA组成.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000021",
+      "type": "file",
+      "x": 1155,
+      "y": 1930,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第七章/COM家族.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000023",
+      "type": "file",
+      "x": 1155,
+      "y": 2230,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第七章/NET原稿组成.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000025",
+      "type": "group",
+      "x": 1680,
+      "y": 390,
+      "width": 500,
+      "height": 2210,
+      "label": "业务应用集成",
+      "color": "5"
+    },
+    {
+      "id": "0000000000000026",
+      "type": "text",
+      "x": 1715,
+      "y": 455,
+      "width": 430,
+      "height": 175,
+      "text": "## 业务应用集成\n\n阅读分组，不代表概念之间的包含或执行顺序。",
+      "color": "5"
+    },
+    {
+      "id": "0000000000000028",
+      "type": "file",
+      "x": 1715,
+      "y": 730,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第七章/业务应用集成要求与优势.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000002a",
+      "type": "file",
+      "x": 1715,
+      "y": 1030,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第七章/数据集成与业务应用集成.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000002c",
+      "type": "file",
+      "x": 1715,
+      "y": 1330,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第七章/业务应用部署与协调组件.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000002e",
+      "type": "group",
+      "x": 0,
+      "y": 2800,
+      "width": 2240,
+      "height": 1750,
+      "label": "15 张跨章卡片与 1 个正文核对入口 · 状态仍在原章管理",
+      "color": "6"
+    },
+    {
+      "id": "000000000000002f",
+      "type": "file",
+      "x": 25,
+      "y": 2920,
+      "width": 490,
+      "height": 300,
+      "file": "02-知识点/第三章/服务集成四要素.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000030",
+      "type": "file",
+      "x": 575,
+      "y": 2920,
+      "width": 490,
+      "height": 300,
+      "file": "02-知识点/第三章/服务连续性.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000031",
+      "type": "file",
+      "x": 1125,
+      "y": 2920,
+      "width": 490,
+      "height": 300,
+      "file": "02-知识点/第四章/技术架构原则与MPP.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000032",
+      "type": "file",
+      "x": 1675,
+      "y": 2920,
+      "width": 490,
+      "height": 300,
+      "file": "02-知识点/第一章/新型基础设施.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000033",
+      "type": "file",
+      "x": 25,
+      "y": 3330,
+      "width": 490,
+      "height": 300,
+      "file": "02-知识点/第二章/网络安全技术.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000034",
+      "type": "file",
+      "x": 575,
+      "y": 3330,
+      "width": 490,
+      "height": 300,
+      "file": "02-知识点/第四章/网络架构原则与局域网.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000035",
+      "type": "file",
+      "x": 1125,
+      "y": 3330,
+      "width": 490,
+      "height": 300,
+      "file": "02-知识点/第二章/网络交换技术.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000036",
+      "type": "file",
+      "x": 1675,
+      "y": 3330,
+      "width": 490,
+      "height": 300,
+      "file": "02-知识点/第二章/存储架构DAS-NAS-SAN.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000037",
+      "type": "file",
+      "x": 25,
+      "y": 3740,
+      "width": 490,
+      "height": 300,
+      "file": "02-知识点/第二章/计算机软硬件.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000038",
+      "type": "file",
+      "x": 575,
+      "y": 3740,
+      "width": 490,
+      "height": 300,
+      "file": "02-知识点/第二章/数据模型与数据库.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000039",
+      "type": "file",
+      "x": 1125,
+      "y": 3740,
+      "width": 490,
+      "height": 300,
+      "file": "02-知识点/第六章/数据备份与容灾.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000003a",
+      "type": "file",
+      "x": 1675,
+      "y": 3740,
+      "width": 490,
+      "height": 300,
+      "file": "02-知识点/第二章/中间件.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000003b",
+      "type": "file",
+      "x": 25,
+      "y": 4150,
+      "width": 490,
+      "height": 300,
+      "file": "02-知识点/第三章/服务集成与实践.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000003c",
+      "type": "file",
+      "x": 575,
+      "y": 4150,
+      "width": 490,
+      "height": 300,
+      "file": "02-知识点/第二章/云服务与部署模式.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000003d",
+      "type": "file",
+      "x": 1125,
+      "y": 4150,
+      "width": 490,
+      "height": 300,
+      "file": "02-知识点/第四章/云原生架构模式.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000003e",
+      "type": "file",
+      "x": 1675,
+      "y": 4150,
+      "width": 490,
+      "height": 300,
+      "file": "01-章节笔记/第六章 数据工程.md",
+      "subpath": "#5.1 数据分析应用概述与数据集成"
+    },
+    {
+      "id": "0000000000000060",
+      "type": "text",
+      "x": 0,
+      "y": 4670,
+      "width": 1260,
+      "height": 330,
+      "text": "## 使用与核对边界\n\n双击卡片查看记忆、自测、出处；卡片节点读取卡片速览。颜色表示主题，不表示掌握程度。\n\n5 张卡片待教材核对：典型特点、基础设施范围、交换集成、COM 家族、数据与业务集成。\n\n第六章正文节点仅用于核对，不是新增卡片、不计入掌握程度。\n\n管理表自动收录符合条件的卡片；新增卡片和改变关系需维护 Canvas。"
+    }
+  ],
+  "edges": [
+    {
+      "id": "0000000000000004",
+      "fromNode": "0000000000000001",
+      "fromSide": "bottom",
+      "toNode": "0000000000000003",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "阅读分组"
+    },
+    {
+      "id": "0000000000000006",
+      "fromNode": "0000000000000003",
+      "fromSide": "left",
+      "toNode": "0000000000000005",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000008",
+      "fromNode": "0000000000000003",
+      "fromSide": "left",
+      "toNode": "0000000000000007",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000000a",
+      "fromNode": "0000000000000003",
+      "fromSide": "left",
+      "toNode": "0000000000000009",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000000d",
+      "fromNode": "0000000000000001",
+      "fromSide": "bottom",
+      "toNode": "000000000000000c",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "阅读分组"
+    },
+    {
+      "id": "000000000000000f",
+      "fromNode": "000000000000000c",
+      "fromSide": "left",
+      "toNode": "000000000000000e",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000011",
+      "fromNode": "000000000000000c",
+      "fromSide": "left",
+      "toNode": "0000000000000010",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000013",
+      "fromNode": "000000000000000c",
+      "fromSide": "left",
+      "toNode": "0000000000000012",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000015",
+      "fromNode": "000000000000000c",
+      "fromSide": "left",
+      "toNode": "0000000000000014",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000018",
+      "fromNode": "0000000000000001",
+      "fromSide": "bottom",
+      "toNode": "0000000000000017",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "阅读分组"
+    },
+    {
+      "id": "000000000000001a",
+      "fromNode": "0000000000000017",
+      "fromSide": "left",
+      "toNode": "0000000000000019",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000001c",
+      "fromNode": "0000000000000017",
+      "fromSide": "left",
+      "toNode": "000000000000001b",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000001e",
+      "fromNode": "0000000000000017",
+      "fromSide": "left",
+      "toNode": "000000000000001d",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000020",
+      "fromNode": "0000000000000017",
+      "fromSide": "left",
+      "toNode": "000000000000001f",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000022",
+      "fromNode": "0000000000000017",
+      "fromSide": "left",
+      "toNode": "0000000000000021",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000024",
+      "fromNode": "0000000000000017",
+      "fromSide": "left",
+      "toNode": "0000000000000023",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000027",
+      "fromNode": "0000000000000001",
+      "fromSide": "bottom",
+      "toNode": "0000000000000026",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "阅读分组"
+    },
+    {
+      "id": "0000000000000029",
+      "fromNode": "0000000000000026",
+      "fromSide": "left",
+      "toNode": "0000000000000028",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000002b",
+      "fromNode": "0000000000000026",
+      "fromSide": "left",
+      "toNode": "000000000000002a",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000002d",
+      "fromNode": "0000000000000026",
+      "fromSide": "left",
+      "toNode": "000000000000002c",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000003f",
+      "fromNode": "0000000000000005",
+      "fromSide": "right",
+      "toNode": "0000000000000007",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "实施特点"
+    },
+    {
+      "id": "0000000000000040",
+      "fromNode": "0000000000000005",
+      "fromSide": "right",
+      "toNode": "000000000000000e",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "基础设施落点"
+    },
+    {
+      "id": "0000000000000041",
+      "fromNode": "0000000000000005",
+      "fromSide": "right",
+      "toNode": "0000000000000028",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "业务应用落点"
+    },
+    {
+      "id": "0000000000000042",
+      "fromNode": "0000000000000005",
+      "fromSide": "right",
+      "toNode": "000000000000002f",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "跨章四项对比"
+    },
+    {
+      "id": "0000000000000043",
+      "fromNode": "0000000000000007",
+      "fromSide": "right",
+      "toNode": "0000000000000009",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "特定场景"
+    },
+    {
+      "id": "0000000000000044",
+      "fromNode": "0000000000000007",
+      "fromSide": "right",
+      "toNode": "0000000000000030",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "区分连续性的对象"
+    },
+    {
+      "id": "0000000000000045",
+      "fromNode": "0000000000000009",
+      "fromSide": "right",
+      "toNode": "0000000000000031",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "技术原则联系"
+    },
+    {
+      "id": "0000000000000046",
+      "fromNode": "000000000000000e",
+      "fromSide": "right",
+      "toNode": "0000000000000010",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "网络展开"
+    },
+    {
+      "id": "0000000000000047",
+      "fromNode": "000000000000000e",
+      "fromSide": "right",
+      "toNode": "0000000000000014",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "机房设备展开"
+    },
+    {
+      "id": "0000000000000048",
+      "fromNode": "000000000000000e",
+      "fromSide": "right",
+      "toNode": "0000000000000032",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "跨章分类范围"
+    },
+    {
+      "id": "0000000000000049",
+      "fromNode": "0000000000000010",
+      "fromSide": "right",
+      "toNode": "0000000000000012",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "交换展开"
+    },
+    {
+      "id": "000000000000004a",
+      "fromNode": "0000000000000010",
+      "fromSide": "right",
+      "toNode": "0000000000000033",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "安全技术复用"
+    },
+    {
+      "id": "000000000000004b",
+      "fromNode": "0000000000000010",
+      "fromSide": "right",
+      "toNode": "0000000000000034",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "结构设计联系"
+    },
+    {
+      "id": "000000000000004c",
+      "fromNode": "0000000000000012",
+      "fromSide": "right",
+      "toNode": "0000000000000035",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "交换原理复用"
+    },
+    {
+      "id": "000000000000004d",
+      "fromNode": "0000000000000014",
+      "fromSide": "right",
+      "toNode": "0000000000000036",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "存储架构复用"
+    },
+    {
+      "id": "000000000000004e",
+      "fromNode": "0000000000000014",
+      "fromSide": "right",
+      "toNode": "000000000000002a",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "区分集成对象"
+    },
+    {
+      "id": "000000000000004f",
+      "fromNode": "0000000000000019",
+      "fromSide": "right",
+      "toNode": "0000000000000037",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "基础软件定位"
+    },
+    {
+      "id": "0000000000000050",
+      "fromNode": "0000000000000019",
+      "fromSide": "right",
+      "toNode": "000000000000001d",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "上层支持"
+    },
+    {
+      "id": "0000000000000051",
+      "fromNode": "000000000000001b",
+      "fromSide": "right",
+      "toNode": "0000000000000038",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "数据库基础复用"
+    },
+    {
+      "id": "0000000000000052",
+      "fromNode": "000000000000001b",
+      "fromSide": "right",
+      "toNode": "0000000000000039",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "恢复能力复用"
+    },
+    {
+      "id": "0000000000000053",
+      "fromNode": "000000000000001b",
+      "fromSide": "right",
+      "toNode": "000000000000002a",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "数据与应用的区别"
+    },
+    {
+      "id": "0000000000000054",
+      "fromNode": "000000000000001d",
+      "fromSide": "right",
+      "toNode": "000000000000003a",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "已有分类与示例"
+    },
+    {
+      "id": "0000000000000055",
+      "fromNode": "000000000000001d",
+      "fromSide": "right",
+      "toNode": "000000000000001f",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "对象代理体系"
+    },
+    {
+      "id": "0000000000000056",
+      "fromNode": "000000000000001f",
+      "fromSide": "right",
+      "toNode": "0000000000000021",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "组件体系对比"
+    },
+    {
+      "id": "0000000000000057",
+      "fromNode": "0000000000000021",
+      "fromSide": "right",
+      "toNode": "0000000000000023",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "同节技术清单"
+    },
+    {
+      "id": "0000000000000058",
+      "fromNode": "0000000000000021",
+      "fromSide": "right",
+      "toNode": "0000000000000028",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "互操作目标联系"
+    },
+    {
+      "id": "0000000000000059",
+      "fromNode": "0000000000000023",
+      "fromSide": "right",
+      "toNode": "000000000000001d",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "软件支持背景"
+    },
+    {
+      "id": "000000000000005a",
+      "fromNode": "0000000000000028",
+      "fromSide": "right",
+      "toNode": "000000000000002a",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "对象辨识"
+    },
+    {
+      "id": "000000000000005b",
+      "fromNode": "0000000000000028",
+      "fromSide": "right",
+      "toNode": "000000000000002c",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "场景落地"
+    },
+    {
+      "id": "000000000000005c",
+      "fromNode": "0000000000000028",
+      "fromSide": "right",
+      "toNode": "000000000000003b",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "服务集成联系"
+    },
+    {
+      "id": "000000000000005d",
+      "fromNode": "000000000000002c",
+      "fromSide": "right",
+      "toNode": "000000000000003c",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "云服务概念复用"
+    },
+    {
+      "id": "000000000000005e",
+      "fromNode": "000000000000002c",
+      "fromSide": "right",
+      "toNode": "000000000000003d",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "事件驱动联系"
+    },
+    {
+      "id": "000000000000005f",
+      "fromNode": "000000000000002a",
+      "fromSide": "right",
+      "toNode": "000000000000003e",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "跨章口径核对：复制与混合集成"
+    }
+  ]
+}

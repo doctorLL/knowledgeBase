@@ -1,0 +1,1271 @@
+{
+  "nodes": [
+    {
+      "id": "0000000000000001",
+      "type": "text",
+      "x": 1100,
+      "y": 0,
+      "width": 600,
+      "height": 280,
+      "text": "# 第四章 · 信息系统架构\n\n30 张知识点卡片 · 5 个主题 · 11 张跨章卡片\n\n[[00-导航/第四章知识点索引|索引]] · [[00-导航/第四章知识点管理.base|管理进度]]\n\n按概念组学习，沿有标签的连线比较和复习。"
+    },
+    {
+      "id": "0000000000000002",
+      "type": "group",
+      "x": 0,
+      "y": 390,
+      "width": 500,
+      "height": 2810,
+      "label": "架构基础与系统架构",
+      "color": "2"
+    },
+    {
+      "id": "0000000000000003",
+      "type": "text",
+      "x": 35,
+      "y": 455,
+      "width": 430,
+      "height": 175,
+      "text": "## 架构基础与系统架构\n\n阅读分组；不代表概念间的包含关系。",
+      "color": "2"
+    },
+    {
+      "id": "0000000000000005",
+      "type": "file",
+      "x": 35,
+      "y": 730,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/架构与框架.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000007",
+      "type": "file",
+      "x": 35,
+      "y": 1030,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/体系架构总体参考框架.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000009",
+      "type": "file",
+      "x": 35,
+      "y": 1330,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/应用系统功能分类.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000000b",
+      "type": "file",
+      "x": 35,
+      "y": 1630,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/信息系统架构定义与分类.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000000d",
+      "type": "file",
+      "x": 35,
+      "y": 1930,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/系统融合三方式.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000000f",
+      "type": "file",
+      "x": 35,
+      "y": 2230,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/常用架构模型.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000011",
+      "type": "file",
+      "x": 35,
+      "y": 2530,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/集成架构演进.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000013",
+      "type": "file",
+      "x": 35,
+      "y": 2830,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/TOGAF与ADM.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000015",
+      "type": "group",
+      "x": 560,
+      "y": 390,
+      "width": 500,
+      "height": 2810,
+      "label": "应用、数据与技术",
+      "color": "3"
+    },
+    {
+      "id": "0000000000000016",
+      "type": "text",
+      "x": 595,
+      "y": 455,
+      "width": 430,
+      "height": 175,
+      "text": "## 应用、数据与技术\n\n阅读分组；不代表概念间的包含关系。",
+      "color": "3"
+    },
+    {
+      "id": "0000000000000018",
+      "type": "file",
+      "x": 595,
+      "y": 730,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/应用架构原则.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000001a",
+      "type": "file",
+      "x": 595,
+      "y": 1030,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/应用分层与分组.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000001c",
+      "type": "file",
+      "x": 595,
+      "y": 1330,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/数据架构.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000001e",
+      "type": "file",
+      "x": 595,
+      "y": 1630,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/整合库与主题库.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000020",
+      "type": "file",
+      "x": 595,
+      "y": 1930,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/技术架构原则与MPP.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000022",
+      "type": "group",
+      "x": 1120,
+      "y": 390,
+      "width": 500,
+      "height": 2810,
+      "label": "网络架构",
+      "color": "4"
+    },
+    {
+      "id": "0000000000000023",
+      "type": "text",
+      "x": 1155,
+      "y": 455,
+      "width": 430,
+      "height": 175,
+      "text": "## 网络架构\n\n阅读分组；不代表概念间的包含关系。",
+      "color": "4"
+    },
+    {
+      "id": "0000000000000025",
+      "type": "file",
+      "x": 1155,
+      "y": 730,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/网络架构原则与局域网.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000027",
+      "type": "file",
+      "x": 1155,
+      "y": 1030,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/单核心与双核心局域网.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000029",
+      "type": "file",
+      "x": 1155,
+      "y": 1330,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/环形与层次局域网.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000002b",
+      "type": "file",
+      "x": 1155,
+      "y": 1630,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/广域网组成与六类架构.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000002d",
+      "type": "file",
+      "x": 1155,
+      "y": 1930,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/5G互联与边缘计算.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000002f",
+      "type": "file",
+      "x": 1155,
+      "y": 2230,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/SSC三种模式.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000031",
+      "type": "group",
+      "x": 1680,
+      "y": 390,
+      "width": 500,
+      "height": 2810,
+      "label": "安全架构",
+      "color": "5"
+    },
+    {
+      "id": "0000000000000032",
+      "type": "text",
+      "x": 1715,
+      "y": 455,
+      "width": 430,
+      "height": 175,
+      "text": "## 安全架构\n\n阅读分组；不代表概念间的包含关系。",
+      "color": "5"
+    },
+    {
+      "id": "0000000000000034",
+      "type": "file",
+      "x": 1715,
+      "y": 730,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/安全保障与三道防线.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000036",
+      "type": "file",
+      "x": 1715,
+      "y": 1030,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/WPDRRC.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000038",
+      "type": "file",
+      "x": 1715,
+      "y": 1330,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/安全体系五方面.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000003a",
+      "type": "file",
+      "x": 1715,
+      "y": 1630,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/OSI安全服务.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000003c",
+      "type": "file",
+      "x": 1715,
+      "y": 1930,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/认证框架与鉴别.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000003e",
+      "type": "file",
+      "x": 1715,
+      "y": 2230,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/访问控制框架.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000040",
+      "type": "file",
+      "x": 1715,
+      "y": 2530,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/机密性完整性与抗抵赖性.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000042",
+      "type": "file",
+      "x": 1715,
+      "y": 2830,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/数据库完整性设计.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000044",
+      "type": "group",
+      "x": 2240,
+      "y": 390,
+      "width": 500,
+      "height": 2810,
+      "label": "云原生架构",
+      "color": "6"
+    },
+    {
+      "id": "0000000000000045",
+      "type": "text",
+      "x": 2275,
+      "y": 455,
+      "width": 430,
+      "height": 175,
+      "text": "## 云原生架构\n\n阅读分组；不代表概念间的包含关系。",
+      "color": "6"
+    },
+    {
+      "id": "0000000000000047",
+      "type": "file",
+      "x": 2275,
+      "y": 730,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/云原生代码与原则.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000049",
+      "type": "file",
+      "x": 2275,
+      "y": 1030,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/云原生架构模式.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000004b",
+      "type": "file",
+      "x": 2275,
+      "y": 1330,
+      "width": 430,
+      "height": 240,
+      "file": "02-知识点/第四章/分布式事务模式.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000004d",
+      "type": "group",
+      "x": 0,
+      "y": 3400,
+      "width": 2760,
+      "height": 970,
+      "label": "跨章复用 · 不复制正文与进度",
+      "color": "6"
+    },
+    {
+      "id": "000000000000004e",
+      "type": "file",
+      "x": 25,
+      "y": 3520,
+      "width": 420,
+      "height": 300,
+      "file": "02-知识点/第三章/服务集成与实践.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000004f",
+      "type": "file",
+      "x": 480,
+      "y": 3520,
+      "width": 420,
+      "height": 300,
+      "file": "02-知识点/第二章/中间件.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000050",
+      "type": "file",
+      "x": 935,
+      "y": 3520,
+      "width": 420,
+      "height": 300,
+      "file": "02-知识点/第六章/数据仓库.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000051",
+      "type": "file",
+      "x": 1390,
+      "y": 3520,
+      "width": 420,
+      "height": 300,
+      "file": "02-知识点/第六章/数据模型.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000052",
+      "type": "file",
+      "x": 1845,
+      "y": 3520,
+      "width": 420,
+      "height": 300,
+      "file": "02-知识点/第二章/网络作用范围.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000053",
+      "type": "file",
+      "x": 2300,
+      "y": 3520,
+      "width": 420,
+      "height": 300,
+      "file": "02-知识点/第三章/服务连续性.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000054",
+      "type": "file",
+      "x": 25,
+      "y": 3960,
+      "width": 420,
+      "height": 300,
+      "file": "02-知识点/第二章/网络安全技术.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000055",
+      "type": "file",
+      "x": 480,
+      "y": 3960,
+      "width": 420,
+      "height": 300,
+      "file": "02-知识点/第二章/OSI七层.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000056",
+      "type": "file",
+      "x": 935,
+      "y": 3960,
+      "width": 420,
+      "height": 300,
+      "file": "02-知识点/第二章/加密与认证.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000057",
+      "type": "file",
+      "x": 1390,
+      "y": 3960,
+      "width": 420,
+      "height": 300,
+      "file": "02-知识点/第二章/信息安全三要素与层次.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000058",
+      "type": "file",
+      "x": 1845,
+      "y": 3960,
+      "width": 420,
+      "height": 300,
+      "file": "02-知识点/第二章/云服务与部署模式.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000085",
+      "type": "text",
+      "x": 0,
+      "y": 4490,
+      "width": 1260,
+      "height": 330,
+      "text": "## 使用与核对边界\n\n双击卡片查看记忆要点、自测和出处；已有节点读取卡片速览。\n\n颜色表示主题，不表示掌握程度。阅读分组与卡片入口线仅为导航，其他线有具体关系标签。\n\n9 张卡片待教材核对，详见索引和管理表。注意四个组成部分分属三层，多核心不只限定双核心。\n\n管理表自动收录符合条件的卡片；新增卡片、调整连线需要维护 Canvas。"
+    }
+  ],
+  "edges": [
+    {
+      "id": "0000000000000004",
+      "fromNode": "0000000000000001",
+      "fromSide": "bottom",
+      "toNode": "0000000000000003",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "阅读分组"
+    },
+    {
+      "id": "0000000000000006",
+      "fromNode": "0000000000000003",
+      "fromSide": "left",
+      "toNode": "0000000000000005",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000008",
+      "fromNode": "0000000000000003",
+      "fromSide": "left",
+      "toNode": "0000000000000007",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000000a",
+      "fromNode": "0000000000000003",
+      "fromSide": "left",
+      "toNode": "0000000000000009",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000000c",
+      "fromNode": "0000000000000003",
+      "fromSide": "left",
+      "toNode": "000000000000000b",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000000e",
+      "fromNode": "0000000000000003",
+      "fromSide": "left",
+      "toNode": "000000000000000d",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000010",
+      "fromNode": "0000000000000003",
+      "fromSide": "left",
+      "toNode": "000000000000000f",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000012",
+      "fromNode": "0000000000000003",
+      "fromSide": "left",
+      "toNode": "0000000000000011",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000014",
+      "fromNode": "0000000000000003",
+      "fromSide": "left",
+      "toNode": "0000000000000013",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000017",
+      "fromNode": "0000000000000001",
+      "fromSide": "bottom",
+      "toNode": "0000000000000016",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "阅读分组"
+    },
+    {
+      "id": "0000000000000019",
+      "fromNode": "0000000000000016",
+      "fromSide": "left",
+      "toNode": "0000000000000018",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000001b",
+      "fromNode": "0000000000000016",
+      "fromSide": "left",
+      "toNode": "000000000000001a",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000001d",
+      "fromNode": "0000000000000016",
+      "fromSide": "left",
+      "toNode": "000000000000001c",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000001f",
+      "fromNode": "0000000000000016",
+      "fromSide": "left",
+      "toNode": "000000000000001e",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000021",
+      "fromNode": "0000000000000016",
+      "fromSide": "left",
+      "toNode": "0000000000000020",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000024",
+      "fromNode": "0000000000000001",
+      "fromSide": "bottom",
+      "toNode": "0000000000000023",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "阅读分组"
+    },
+    {
+      "id": "0000000000000026",
+      "fromNode": "0000000000000023",
+      "fromSide": "left",
+      "toNode": "0000000000000025",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000028",
+      "fromNode": "0000000000000023",
+      "fromSide": "left",
+      "toNode": "0000000000000027",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000002a",
+      "fromNode": "0000000000000023",
+      "fromSide": "left",
+      "toNode": "0000000000000029",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000002c",
+      "fromNode": "0000000000000023",
+      "fromSide": "left",
+      "toNode": "000000000000002b",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000002e",
+      "fromNode": "0000000000000023",
+      "fromSide": "left",
+      "toNode": "000000000000002d",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000030",
+      "fromNode": "0000000000000023",
+      "fromSide": "left",
+      "toNode": "000000000000002f",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000033",
+      "fromNode": "0000000000000001",
+      "fromSide": "bottom",
+      "toNode": "0000000000000032",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "阅读分组"
+    },
+    {
+      "id": "0000000000000035",
+      "fromNode": "0000000000000032",
+      "fromSide": "left",
+      "toNode": "0000000000000034",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000037",
+      "fromNode": "0000000000000032",
+      "fromSide": "left",
+      "toNode": "0000000000000036",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000039",
+      "fromNode": "0000000000000032",
+      "fromSide": "left",
+      "toNode": "0000000000000038",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000003b",
+      "fromNode": "0000000000000032",
+      "fromSide": "left",
+      "toNode": "000000000000003a",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000003d",
+      "fromNode": "0000000000000032",
+      "fromSide": "left",
+      "toNode": "000000000000003c",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000003f",
+      "fromNode": "0000000000000032",
+      "fromSide": "left",
+      "toNode": "000000000000003e",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000041",
+      "fromNode": "0000000000000032",
+      "fromSide": "left",
+      "toNode": "0000000000000040",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000043",
+      "fromNode": "0000000000000032",
+      "fromSide": "left",
+      "toNode": "0000000000000042",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000046",
+      "fromNode": "0000000000000001",
+      "fromSide": "bottom",
+      "toNode": "0000000000000045",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "阅读分组"
+    },
+    {
+      "id": "0000000000000048",
+      "fromNode": "0000000000000045",
+      "fromSide": "left",
+      "toNode": "0000000000000047",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000004a",
+      "fromNode": "0000000000000045",
+      "fromSide": "left",
+      "toNode": "0000000000000049",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000004c",
+      "fromNode": "0000000000000045",
+      "fromSide": "left",
+      "toNode": "000000000000004b",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000059",
+      "fromNode": "0000000000000005",
+      "fromSide": "right",
+      "toNode": "000000000000000b",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "系统层面"
+    },
+    {
+      "id": "000000000000005a",
+      "fromNode": "0000000000000005",
+      "fromSide": "right",
+      "toNode": "0000000000000013",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "框架实例"
+    },
+    {
+      "id": "000000000000005b",
+      "fromNode": "0000000000000007",
+      "fromSide": "right",
+      "toNode": "0000000000000009",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "应用分类"
+    },
+    {
+      "id": "000000000000005c",
+      "fromNode": "0000000000000007",
+      "fromSide": "right",
+      "toNode": "0000000000000005",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "总体概念"
+    },
+    {
+      "id": "000000000000005d",
+      "fromNode": "0000000000000009",
+      "fromSide": "right",
+      "toNode": "0000000000000018",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "应用规划"
+    },
+    {
+      "id": "000000000000005e",
+      "fromNode": "000000000000000b",
+      "fromSide": "right",
+      "toNode": "000000000000000f",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "具体模式"
+    },
+    {
+      "id": "000000000000005f",
+      "fromNode": "000000000000000b",
+      "fromSide": "right",
+      "toNode": "000000000000000d",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "融合方式"
+    },
+    {
+      "id": "0000000000000060",
+      "fromNode": "000000000000000d",
+      "fromSide": "right",
+      "toNode": "000000000000004e",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "与服务层面的集成对照",
+      "color": "6"
+    },
+    {
+      "id": "0000000000000061",
+      "fromNode": "000000000000000f",
+      "fromSide": "right",
+      "toNode": "000000000000004f",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "中间层相关",
+      "color": "6"
+    },
+    {
+      "id": "0000000000000062",
+      "fromNode": "0000000000000011",
+      "fromSide": "right",
+      "toNode": "0000000000000013",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "规划方法联系"
+    },
+    {
+      "id": "0000000000000063",
+      "fromNode": "0000000000000011",
+      "fromSide": "right",
+      "toNode": "0000000000000049",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "微服务相关"
+    },
+    {
+      "id": "0000000000000064",
+      "fromNode": "0000000000000018",
+      "fromSide": "right",
+      "toNode": "000000000000001a",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "规划手段"
+    },
+    {
+      "id": "0000000000000065",
+      "fromNode": "0000000000000018",
+      "fromSide": "right",
+      "toNode": "0000000000000020",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "另一架构原则"
+    },
+    {
+      "id": "0000000000000066",
+      "fromNode": "000000000000001a",
+      "fromSide": "right",
+      "toNode": "000000000000000f",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "对比分层模型"
+    },
+    {
+      "id": "0000000000000067",
+      "fromNode": "000000000000001c",
+      "fromSide": "right",
+      "toNode": "000000000000001e",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "库的分工"
+    },
+    {
+      "id": "0000000000000068",
+      "fromNode": "000000000000001c",
+      "fromSide": "right",
+      "toNode": "0000000000000050",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "复用仓库概念",
+      "color": "6"
+    },
+    {
+      "id": "0000000000000069",
+      "fromNode": "000000000000001c",
+      "fromSide": "right",
+      "toNode": "0000000000000051",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "复用数据模型",
+      "color": "6"
+    },
+    {
+      "id": "000000000000006a",
+      "fromNode": "0000000000000020",
+      "fromSide": "right",
+      "toNode": "0000000000000050",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "分析查询联系",
+      "color": "6"
+    },
+    {
+      "id": "000000000000006b",
+      "fromNode": "0000000000000025",
+      "fromSide": "right",
+      "toNode": "0000000000000027",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "核心冗余比较"
+    },
+    {
+      "id": "000000000000006c",
+      "fromNode": "0000000000000025",
+      "fromSide": "right",
+      "toNode": "0000000000000029",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "其他组织方式"
+    },
+    {
+      "id": "000000000000006d",
+      "fromNode": "0000000000000025",
+      "fromSide": "right",
+      "toNode": "0000000000000052",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "范围分类复用",
+      "color": "6"
+    },
+    {
+      "id": "000000000000006e",
+      "fromNode": "0000000000000027",
+      "fromSide": "right",
+      "toNode": "000000000000002b",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "跨网络类型比较"
+    },
+    {
+      "id": "000000000000006f",
+      "fromNode": "0000000000000029",
+      "fromSide": "right",
+      "toNode": "0000000000000027",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "另一冗余方案"
+    },
+    {
+      "id": "0000000000000070",
+      "fromNode": "000000000000002b",
+      "fromSide": "right",
+      "toNode": "0000000000000052",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "范围分类",
+      "color": "6"
+    },
+    {
+      "id": "0000000000000071",
+      "fromNode": "000000000000002d",
+      "fromSide": "right",
+      "toNode": "000000000000002f",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "连续性模式"
+    },
+    {
+      "id": "0000000000000072",
+      "fromNode": "000000000000002d",
+      "fromSide": "right",
+      "toNode": "0000000000000053",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "背景联系",
+      "color": "6"
+    },
+    {
+      "id": "0000000000000073",
+      "fromNode": "000000000000002f",
+      "fromSide": "right",
+      "toNode": "0000000000000053",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "跨章联系",
+      "color": "6"
+    },
+    {
+      "id": "0000000000000074",
+      "fromNode": "0000000000000034",
+      "fromSide": "right",
+      "toNode": "0000000000000036",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "动态模型"
+    },
+    {
+      "id": "0000000000000075",
+      "fromNode": "0000000000000034",
+      "fromSide": "right",
+      "toNode": "0000000000000038",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "设计视角"
+    },
+    {
+      "id": "0000000000000076",
+      "fromNode": "0000000000000036",
+      "fromSide": "right",
+      "toNode": "0000000000000038",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "设计范围"
+    },
+    {
+      "id": "0000000000000077",
+      "fromNode": "0000000000000038",
+      "fromSide": "right",
+      "toNode": "0000000000000054",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "已有技术卡",
+      "color": "6"
+    },
+    {
+      "id": "0000000000000078",
+      "fromNode": "000000000000003a",
+      "fromSide": "right",
+      "toNode": "000000000000003c",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "鉴别展开"
+    },
+    {
+      "id": "0000000000000079",
+      "fromNode": "000000000000003a",
+      "fromSide": "right",
+      "toNode": "000000000000003e",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "授权展开"
+    },
+    {
+      "id": "000000000000007a",
+      "fromNode": "000000000000003a",
+      "fromSide": "right",
+      "toNode": "0000000000000040",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "其他服务"
+    },
+    {
+      "id": "000000000000007b",
+      "fromNode": "000000000000003a",
+      "fromSide": "right",
+      "toNode": "0000000000000055",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "参考模型复用",
+      "color": "6"
+    },
+    {
+      "id": "000000000000007c",
+      "fromNode": "000000000000003c",
+      "fromSide": "right",
+      "toNode": "000000000000003e",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "职责对比"
+    },
+    {
+      "id": "000000000000007d",
+      "fromNode": "000000000000003c",
+      "fromSide": "right",
+      "toNode": "0000000000000056",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "基础概念复用",
+      "color": "6"
+    },
+    {
+      "id": "000000000000007e",
+      "fromNode": "0000000000000040",
+      "fromSide": "right",
+      "toNode": "0000000000000057",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "基础概念",
+      "color": "6"
+    },
+    {
+      "id": "000000000000007f",
+      "fromNode": "0000000000000040",
+      "fromSide": "right",
+      "toNode": "0000000000000042",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "数据库领域"
+    },
+    {
+      "id": "0000000000000080",
+      "fromNode": "0000000000000042",
+      "fromSide": "right",
+      "toNode": "0000000000000051",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "建模联系",
+      "color": "6"
+    },
+    {
+      "id": "0000000000000081",
+      "fromNode": "0000000000000047",
+      "fromSide": "right",
+      "toNode": "0000000000000049",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "实现模式"
+    },
+    {
+      "id": "0000000000000082",
+      "fromNode": "0000000000000047",
+      "fromSide": "right",
+      "toNode": "0000000000000058",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "云服务概念复用",
+      "color": "6"
+    },
+    {
+      "id": "0000000000000083",
+      "fromNode": "0000000000000049",
+      "fromSide": "right",
+      "toNode": "000000000000004b",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "事务展开"
+    },
+    {
+      "id": "0000000000000084",
+      "fromNode": "0000000000000049",
+      "fromSide": "right",
+      "toNode": "000000000000004f",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "中间件复用",
+      "color": "6"
+    }
+  ]
+}

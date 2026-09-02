@@ -1,1 +1,9 @@
-{}
+{
+  "theme": "obsidian",
+  "cssTheme": "GitHub Theme",
+  "interfaceFontFamily": "Arial Black",
+  "textFontFamily": "yyb,微软雅黑",
+  "monospaceFontFamily": "Maple Mono NF CN",
+  "baseFontSize": 18,
+  "baseFontSizeAction": false
+}

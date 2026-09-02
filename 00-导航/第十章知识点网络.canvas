@@ -1,0 +1,519 @@
+{
+  "nodes": [
+    {
+      "id": "c432b372e0e30267",
+      "type": "text",
+      "x": 600,
+      "y": 20,
+      "width": 1100,
+      "height": 230,
+      "text": "# 第十章知识点网络\n\n13 张卡片 · 4 个主题\n主线：启动授权 → 制定章程 → 识别干系人 → 启动会议与目标\n颜色表示主题，文字连线表示概念关系。",
+      "color": "6"
+    },
+    {
+      "id": "5ebb8fd03a758733",
+      "type": "group",
+      "x": 0,
+      "y": 340,
+      "width": 540,
+      "height": 2120,
+      "label": "启动过程组总览",
+      "color": "1"
+    },
+    {
+      "id": "df910d1488886597",
+      "type": "text",
+      "x": 55,
+      "y": 395,
+      "width": 430,
+      "height": 130,
+      "text": "# 启动过程组总览\n\n按编号阅读本主题卡片。",
+      "color": "1"
+    },
+    {
+      "id": "696bfb14ed04e17b",
+      "type": "file",
+      "x": 55,
+      "y": 580,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第十章/启动过程组定义与两个过程.md",
+      "subpath": "#卡片速览",
+      "color": "1"
+    },
+    {
+      "id": "fbe5e4bae128e62c",
+      "type": "file",
+      "x": 55,
+      "y": 875,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第十章/启动目的与立项标志.md",
+      "subpath": "#卡片速览",
+      "color": "1"
+    },
+    {
+      "id": "7c0ebd0697505949",
+      "type": "group",
+      "x": 580,
+      "y": 340,
+      "width": 540,
+      "height": 2120,
+      "label": "制定项目章程",
+      "color": "2"
+    },
+    {
+      "id": "9d7f617cdc05fde7",
+      "type": "text",
+      "x": 635,
+      "y": 395,
+      "width": 430,
+      "height": 130,
+      "text": "# 制定项目章程\n\n按编号阅读本主题卡片。",
+      "color": "2"
+    },
+    {
+      "id": "9a61db35d0c969fc",
+      "type": "file",
+      "x": 635,
+      "y": 580,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第十章/项目章程定义与作用.md",
+      "subpath": "#卡片速览",
+      "color": "2"
+    },
+    {
+      "id": "ed7d734bbdbcf3d2",
+      "type": "file",
+      "x": 635,
+      "y": 875,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第十章/章程授权与项目经理任命.md",
+      "subpath": "#卡片速览",
+      "color": "2"
+    },
+    {
+      "id": "32e909a101accfef",
+      "type": "file",
+      "x": 635,
+      "y": 1170,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第十章/制定项目章程ITTO.md",
+      "subpath": "#卡片速览",
+      "color": "2"
+    },
+    {
+      "id": "deb5dc23d211aed8",
+      "type": "group",
+      "x": 1160,
+      "y": 340,
+      "width": 540,
+      "height": 2120,
+      "label": "识别干系人",
+      "color": "3"
+    },
+    {
+      "id": "867bc89d75430981",
+      "type": "text",
+      "x": 1215,
+      "y": 395,
+      "width": 430,
+      "height": 130,
+      "text": "# 识别干系人\n\n按编号阅读本主题卡片。",
+      "color": "3"
+    },
+    {
+      "id": "558cd82a8677d62d",
+      "type": "file",
+      "x": 1215,
+      "y": 580,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第十章/识别干系人定义与开展时机.md",
+      "subpath": "#卡片速览",
+      "color": "3"
+    },
+    {
+      "id": "375467bcd0d03f46",
+      "type": "file",
+      "x": 1215,
+      "y": 875,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第十章/项目干系人五类.md",
+      "subpath": "#卡片速览",
+      "color": "3"
+    },
+    {
+      "id": "cd0235c8acbe251e",
+      "type": "file",
+      "x": 1215,
+      "y": 1170,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第十章/识别干系人ITTO.md",
+      "subpath": "#卡片速览",
+      "color": "3"
+    },
+    {
+      "id": "e6ed684363873534",
+      "type": "file",
+      "x": 1215,
+      "y": 1465,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第十章/干系人数据收集方法.md",
+      "subpath": "#卡片速览",
+      "color": "3"
+    },
+    {
+      "id": "3982e79f922cba34",
+      "type": "file",
+      "x": 1215,
+      "y": 1760,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第十章/干系人分析与五类利害关系.md",
+      "subpath": "#卡片速览",
+      "color": "3"
+    },
+    {
+      "id": "354b51e12c38921d",
+      "type": "file",
+      "x": 1215,
+      "y": 2055,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第十章/干系人映射与表现模型.md",
+      "subpath": "#卡片速览",
+      "color": "3"
+    },
+    {
+      "id": "ecbced8bfea04c51",
+      "type": "group",
+      "x": 1740,
+      "y": 340,
+      "width": 540,
+      "height": 2120,
+      "label": "启动重点工作",
+      "color": "4"
+    },
+    {
+      "id": "2aa2c4e142a7303c",
+      "type": "text",
+      "x": 1795,
+      "y": 395,
+      "width": 430,
+      "height": 130,
+      "text": "# 启动重点工作\n\n按编号阅读本主题卡片。",
+      "color": "4"
+    },
+    {
+      "id": "90fa2957bba10476",
+      "type": "file",
+      "x": 1795,
+      "y": 580,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第十章/项目启动会议.md",
+      "subpath": "#卡片速览",
+      "color": "4"
+    },
+    {
+      "id": "10d7693c66963398",
+      "type": "file",
+      "x": 1795,
+      "y": 875,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第十章/项目目标两类.md",
+      "subpath": "#卡片速览",
+      "color": "4"
+    },
+    {
+      "id": "3c4623849a49a539",
+      "type": "group",
+      "x": 0,
+      "y": 2700,
+      "width": 2280,
+      "height": 940,
+      "label": "跨章节复用",
+      "color": "6"
+    },
+    {
+      "id": "a07db7def5c84e2a",
+      "type": "file",
+      "x": 55,
+      "y": 2890,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第九章/项目组合管理目的.md",
+      "subpath": "#卡片速览",
+      "color": "6"
+    },
+    {
+      "id": "bd1e9cfba3a73800",
+      "type": "file",
+      "x": 605,
+      "y": 2890,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第九章/PMO职责.md",
+      "subpath": "#卡片速览",
+      "color": "6"
+    },
+    {
+      "id": "84ab5c898b25467e",
+      "type": "file",
+      "x": 1155,
+      "y": 2890,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第九章/组织内外因素.md",
+      "subpath": "#卡片速览",
+      "color": "6"
+    },
+    {
+      "id": "eab45d10c52a7111",
+      "type": "file",
+      "x": 1705,
+      "y": 2890,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第九章/组织过程资产.md",
+      "subpath": "#卡片速览",
+      "color": "6"
+    },
+    {
+      "id": "6308d6d2cdf0af88",
+      "type": "file",
+      "x": 55,
+      "y": 3190,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第五章/需求变更与CCB.md",
+      "subpath": "#卡片速览",
+      "color": "6"
+    },
+    {
+      "id": "5aad1ef0fed834a1",
+      "type": "file",
+      "x": 605,
+      "y": 3190,
+      "width": 430,
+      "height": 230,
+      "file": "02-知识点/第九章/项目成功标准与管理不善后果.md",
+      "subpath": "#卡片速览",
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "470729f23cf41c67",
+      "fromNode": "df910d1488886597",
+      "toNode": "696bfb14ed04e17b",
+      "label": "卡片入口"
+    },
+    {
+      "id": "963419718a854c0a",
+      "fromNode": "df910d1488886597",
+      "toNode": "fbe5e4bae128e62c",
+      "label": "卡片入口"
+    },
+    {
+      "id": "4516d4764112d947",
+      "fromNode": "9d7f617cdc05fde7",
+      "toNode": "9a61db35d0c969fc",
+      "label": "卡片入口"
+    },
+    {
+      "id": "5801ef2a615be353",
+      "fromNode": "9d7f617cdc05fde7",
+      "toNode": "ed7d734bbdbcf3d2",
+      "label": "卡片入口"
+    },
+    {
+      "id": "dcc9ac582c139536",
+      "fromNode": "9d7f617cdc05fde7",
+      "toNode": "32e909a101accfef",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0416e13457a09455",
+      "fromNode": "867bc89d75430981",
+      "toNode": "558cd82a8677d62d",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0d8a4c2c24c4f770",
+      "fromNode": "867bc89d75430981",
+      "toNode": "375467bcd0d03f46",
+      "label": "卡片入口"
+    },
+    {
+      "id": "ba57b05098d4c434",
+      "fromNode": "867bc89d75430981",
+      "toNode": "cd0235c8acbe251e",
+      "label": "卡片入口"
+    },
+    {
+      "id": "ad2e058a90acd334",
+      "fromNode": "867bc89d75430981",
+      "toNode": "e6ed684363873534",
+      "label": "卡片入口"
+    },
+    {
+      "id": "02f3aaac61c3232c",
+      "fromNode": "867bc89d75430981",
+      "toNode": "3982e79f922cba34",
+      "label": "卡片入口"
+    },
+    {
+      "id": "60579fd42658e66e",
+      "fromNode": "867bc89d75430981",
+      "toNode": "354b51e12c38921d",
+      "label": "卡片入口"
+    },
+    {
+      "id": "2b72b65c1bba09d4",
+      "fromNode": "2aa2c4e142a7303c",
+      "toNode": "90fa2957bba10476",
+      "label": "卡片入口"
+    },
+    {
+      "id": "5bf5d278f108675b",
+      "fromNode": "2aa2c4e142a7303c",
+      "toNode": "10d7693c66963398",
+      "label": "卡片入口"
+    },
+    {
+      "id": "1a3961aa5ad0b44f",
+      "fromNode": "696bfb14ed04e17b",
+      "toNode": "fbe5e4bae128e62c",
+      "label": "定义→目的",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "1e9d5fe13f952e2d",
+      "fromNode": "fbe5e4bae128e62c",
+      "toNode": "9a61db35d0c969fc",
+      "label": "章程获批",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "a508f955f3491246",
+      "fromNode": "9a61db35d0c969fc",
+      "toNode": "ed7d734bbdbcf3d2",
+      "label": "文件→授权",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "df65bd805b51a1f7",
+      "fromNode": "ed7d734bbdbcf3d2",
+      "toNode": "32e909a101accfef",
+      "label": "授权→过程",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "543d4151e1787c92",
+      "fromNode": "9a61db35d0c969fc",
+      "toNode": "558cd82a8677d62d",
+      "label": "并行启动",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "f6d134f5559b900b",
+      "fromNode": "558cd82a8677d62d",
+      "toNode": "375467bcd0d03f46",
+      "label": "识别对象",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "c44fa2ed5edf0f42",
+      "fromNode": "375467bcd0d03f46",
+      "toNode": "cd0235c8acbe251e",
+      "label": "对象→过程",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "58f47119aa2e20c5",
+      "fromNode": "cd0235c8acbe251e",
+      "toNode": "e6ed684363873534",
+      "label": "数据收集",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "2ac89cf8f023c2c5",
+      "fromNode": "e6ed684363873534",
+      "toNode": "3982e79f922cba34",
+      "label": "收集→分析",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "373fc3b310030f0b",
+      "fromNode": "3982e79f922cba34",
+      "toNode": "354b51e12c38921d",
+      "label": "分析→表现",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "02459e797cffe833",
+      "fromNode": "9a61db35d0c969fc",
+      "toNode": "90fa2957bba10476",
+      "label": "正式公布",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "064e39e0b5f6b884",
+      "fromNode": "fbe5e4bae128e62c",
+      "toNode": "10d7693c66963398",
+      "label": "关注目标",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "2903ad61f5af7212",
+      "fromNode": "fbe5e4bae128e62c",
+      "toNode": "a07db7def5c84e2a",
+      "label": "战略选择",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "c0d6000da59af3f7",
+      "fromNode": "ed7d734bbdbcf3d2",
+      "toNode": "bd1e9cfba3a73800",
+      "label": "启动支持",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "0fa8f550f0aa56be",
+      "fromNode": "32e909a101accfef",
+      "toNode": "84ab5c898b25467e",
+      "label": "环境输入",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "96f359fd0c66b88d",
+      "fromNode": "32e909a101accfef",
+      "toNode": "eab45d10c52a7111",
+      "label": "资产输入",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "e288955988d86458",
+      "fromNode": "cd0235c8acbe251e",
+      "toNode": "6308d6d2cdf0af88",
+      "label": "变更请求",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "bda3caae87a68ee0",
+      "fromNode": "10d7693c66963398",
+      "toNode": "5aad1ef0fed834a1",
+      "label": "约束辨识",
+      "toEnd": "arrow"
+    }
+  ]
+}

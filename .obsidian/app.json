@@ -1,3 +1,7 @@
 {
-  "attachmentFolderPath": "99-附件"
+  "attachmentFolderPath": "99-附件",
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "showIndentGuide": true
 }
