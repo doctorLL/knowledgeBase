@@ -1,6 +1,10 @@
 # macOS
 .DS_Store
 
+# Windows
+desktop.ini
+Thumbs.db
+
 # Obsidian per-device UI state
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json

@@ -1,0 +1,1242 @@
+{
+  "nodes": [
+    {
+      "id": "0000000000000001",
+      "type": "text",
+      "x": 1080,
+      "y": 0,
+      "width": 620,
+      "height": 280,
+      "text": "# 第五章 · 软件工程\n\n27 张卡片 · 5 个主题 · 10 张跨章卡片\n\n[[20-领域/学习/软考/00-导航/第五章知识点索引|索引]] · [[20-领域/学习/软考/00-导航/第五章知识点管理.base|管理进度]]\n\n需求—设计—实现—交付相互关联，质量保证贯穿各项活动。"
+    },
+    {
+      "id": "0000000000000002",
+      "type": "group",
+      "x": 0,
+      "y": 390,
+      "width": 500,
+      "height": 2810,
+      "label": "软件工程与需求",
+      "color": "2"
+    },
+    {
+      "id": "0000000000000003",
+      "type": "text",
+      "x": 35,
+      "y": 455,
+      "width": 430,
+      "height": 175,
+      "text": "## 软件工程与需求\n\n阅读分组，不代表严格阶段顺序或概念包含。",
+      "color": "2"
+    },
+    {
+      "id": "0000000000000005",
+      "type": "file",
+      "x": 35,
+      "y": 730,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/软件工程定义与三要素.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000007",
+      "type": "file",
+      "x": 35,
+      "y": 1030,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/需求三层次.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000009",
+      "type": "file",
+      "x": 35,
+      "y": 1330,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/QFD需求分类.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000000b",
+      "type": "file",
+      "x": 35,
+      "y": 1630,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/需求获取与特性.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000000d",
+      "type": "file",
+      "x": 35,
+      "y": 1930,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/结构化分析SA.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000000f",
+      "type": "file",
+      "x": 35,
+      "y": 2230,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/面向对象分析OOA.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000011",
+      "type": "file",
+      "x": 35,
+      "y": 2530,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/SRS与需求追踪.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000013",
+      "type": "file",
+      "x": 35,
+      "y": 2830,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/需求变更与CCB.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000015",
+      "type": "group",
+      "x": 560,
+      "y": 390,
+      "width": 500,
+      "height": 2810,
+      "label": "软件设计与建模",
+      "color": "3"
+    },
+    {
+      "id": "0000000000000016",
+      "type": "text",
+      "x": 595,
+      "y": 455,
+      "width": 430,
+      "height": 175,
+      "text": "## 软件设计与建模\n\n阅读分组，不代表严格阶段顺序或概念包含。",
+      "color": "3"
+    },
+    {
+      "id": "0000000000000018",
+      "type": "file",
+      "x": 595,
+      "y": 730,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/结构化设计SD.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000001a",
+      "type": "file",
+      "x": 595,
+      "y": 1030,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/模块耦合类型.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000001c",
+      "type": "file",
+      "x": 595,
+      "y": 1330,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/概要设计与详细设计工具.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000001e",
+      "type": "file",
+      "x": 595,
+      "y": 1630,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/OOD与七项原则.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000020",
+      "type": "file",
+      "x": 595,
+      "y": 1930,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/UML结构与图.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000022",
+      "type": "file",
+      "x": 595,
+      "y": 2230,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/UML关系与视图.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000024",
+      "type": "file",
+      "x": 595,
+      "y": 2530,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/设计模式分类.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000026",
+      "type": "group",
+      "x": 1120,
+      "y": 390,
+      "width": 500,
+      "height": 2810,
+      "label": "实现、配置与测试",
+      "color": "4"
+    },
+    {
+      "id": "0000000000000027",
+      "type": "text",
+      "x": 1155,
+      "y": 455,
+      "width": 430,
+      "height": 175,
+      "text": "## 实现、配置与测试\n\n阅读分组，不代表严格阶段顺序或概念包含。",
+      "color": "4"
+    },
+    {
+      "id": "0000000000000029",
+      "type": "file",
+      "x": 1155,
+      "y": 730,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/软件配置管理SCM.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000002b",
+      "type": "file",
+      "x": 1155,
+      "y": 1030,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/编码风格与效率.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000002d",
+      "type": "file",
+      "x": 1155,
+      "y": 1330,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/测试方法与黑白盒.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000002f",
+      "type": "file",
+      "x": 1155,
+      "y": 1630,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/测试分类与回归.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000031",
+      "type": "file",
+      "x": 1155,
+      "y": 1930,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/软件调试策略.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000033",
+      "type": "group",
+      "x": 1680,
+      "y": 390,
+      "width": 500,
+      "height": 2810,
+      "label": "部署交付",
+      "color": "5"
+    },
+    {
+      "id": "0000000000000034",
+      "type": "text",
+      "x": 1715,
+      "y": 455,
+      "width": 430,
+      "height": 175,
+      "text": "## 部署交付\n\n阅读分组，不代表严格阶段顺序或概念包含。",
+      "color": "5"
+    },
+    {
+      "id": "0000000000000036",
+      "type": "file",
+      "x": 1715,
+      "y": 730,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/软件部署过程与模式.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000038",
+      "type": "file",
+      "x": 1715,
+      "y": 1030,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/容器与持续部署.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000003a",
+      "type": "file",
+      "x": 1715,
+      "y": 1330,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/蓝绿与金丝雀部署.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000003c",
+      "type": "group",
+      "x": 2240,
+      "y": 390,
+      "width": 500,
+      "height": 2810,
+      "label": "质量与过程能力",
+      "color": "6"
+    },
+    {
+      "id": "000000000000003d",
+      "type": "text",
+      "x": 2275,
+      "y": 455,
+      "width": 430,
+      "height": 175,
+      "text": "## 质量与过程能力\n\n阅读分组，不代表严格阶段顺序或概念包含。",
+      "color": "6"
+    },
+    {
+      "id": "000000000000003f",
+      "type": "file",
+      "x": 2275,
+      "y": 730,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/软件质量与影响因素.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000041",
+      "type": "file",
+      "x": 2275,
+      "y": 1030,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/软件质量保证SQA.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000043",
+      "type": "file",
+      "x": 2275,
+      "y": 1330,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/CSMM结构.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000045",
+      "type": "file",
+      "x": 2275,
+      "y": 1630,
+      "width": 430,
+      "height": 240,
+      "file": "20-领域/学习/软考/02-知识点/第五章/CSMM五级特征.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000047",
+      "type": "group",
+      "x": 0,
+      "y": 3400,
+      "width": 2760,
+      "height": 970,
+      "label": "跨章复用 · 状态仍在原章管理",
+      "color": "6"
+    },
+    {
+      "id": "0000000000000048",
+      "type": "file",
+      "x": 25,
+      "y": 3520,
+      "width": 490,
+      "height": 300,
+      "file": "20-领域/学习/软考/02-知识点/第一章/信息系统生命周期.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000049",
+      "type": "file",
+      "x": 575,
+      "y": 3520,
+      "width": 490,
+      "height": 300,
+      "file": "20-领域/学习/软考/02-知识点/第六章/概念模型.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000004a",
+      "type": "file",
+      "x": 1125,
+      "y": 3520,
+      "width": 490,
+      "height": 300,
+      "file": "20-领域/学习/软考/02-知识点/第四章/应用分层与分组.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000004b",
+      "type": "file",
+      "x": 1675,
+      "y": 3520,
+      "width": 490,
+      "height": 300,
+      "file": "20-领域/学习/软考/02-知识点/第四章/信息系统架构定义与分类.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000004c",
+      "type": "file",
+      "x": 2225,
+      "y": 3520,
+      "width": 490,
+      "height": 300,
+      "file": "20-领域/学习/软考/02-知识点/第四章/云原生架构模式.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000004d",
+      "type": "file",
+      "x": 25,
+      "y": 3960,
+      "width": 490,
+      "height": 300,
+      "file": "20-领域/学习/软考/02-知识点/第三章/服务设计与部署.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000004e",
+      "type": "file",
+      "x": 575,
+      "y": 3960,
+      "width": 490,
+      "height": 300,
+      "file": "20-领域/学习/软考/02-知识点/第四章/云原生代码与原则.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "000000000000004f",
+      "type": "file",
+      "x": 1125,
+      "y": 3960,
+      "width": 490,
+      "height": 300,
+      "file": "20-领域/学习/软考/02-知识点/第三章/服务连续性.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000050",
+      "type": "file",
+      "x": 1675,
+      "y": 3960,
+      "width": 490,
+      "height": 300,
+      "file": "20-领域/学习/软考/02-知识点/第三章/服务质量五特性.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000051",
+      "type": "file",
+      "x": 2225,
+      "y": 3960,
+      "width": 490,
+      "height": 300,
+      "file": "20-领域/学习/软考/02-知识点/第三章/IT服务内涵.md",
+      "subpath": "#卡片速览"
+    },
+    {
+      "id": "0000000000000084",
+      "type": "text",
+      "x": 0,
+      "y": 4490,
+      "width": 1260,
+      "height": 330,
+      "text": "## 使用与核对边界\n\n双击卡片查看记忆要点、自测及出处。已有节点读取卡片速览。\n\n颜色表示主题，不表示掌握程度；导航线之外的连线标注具体知识联系。\n\n8 张卡片待教材核对。回归测试不固定排在最后；SQA 贯穿活动；UML 图名与实现关系的表述保留核对边界。\n\n管理表自动收录符合条件的卡片；新增卡片、改变关系需维护 Canvas。"
+    }
+  ],
+  "edges": [
+    {
+      "id": "0000000000000004",
+      "fromNode": "0000000000000001",
+      "fromSide": "bottom",
+      "toNode": "0000000000000003",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "阅读分组"
+    },
+    {
+      "id": "0000000000000006",
+      "fromNode": "0000000000000003",
+      "fromSide": "left",
+      "toNode": "0000000000000005",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000008",
+      "fromNode": "0000000000000003",
+      "fromSide": "left",
+      "toNode": "0000000000000007",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000000a",
+      "fromNode": "0000000000000003",
+      "fromSide": "left",
+      "toNode": "0000000000000009",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000000c",
+      "fromNode": "0000000000000003",
+      "fromSide": "left",
+      "toNode": "000000000000000b",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000000e",
+      "fromNode": "0000000000000003",
+      "fromSide": "left",
+      "toNode": "000000000000000d",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000010",
+      "fromNode": "0000000000000003",
+      "fromSide": "left",
+      "toNode": "000000000000000f",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000012",
+      "fromNode": "0000000000000003",
+      "fromSide": "left",
+      "toNode": "0000000000000011",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000014",
+      "fromNode": "0000000000000003",
+      "fromSide": "left",
+      "toNode": "0000000000000013",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000017",
+      "fromNode": "0000000000000001",
+      "fromSide": "bottom",
+      "toNode": "0000000000000016",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "阅读分组"
+    },
+    {
+      "id": "0000000000000019",
+      "fromNode": "0000000000000016",
+      "fromSide": "left",
+      "toNode": "0000000000000018",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000001b",
+      "fromNode": "0000000000000016",
+      "fromSide": "left",
+      "toNode": "000000000000001a",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000001d",
+      "fromNode": "0000000000000016",
+      "fromSide": "left",
+      "toNode": "000000000000001c",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000001f",
+      "fromNode": "0000000000000016",
+      "fromSide": "left",
+      "toNode": "000000000000001e",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000021",
+      "fromNode": "0000000000000016",
+      "fromSide": "left",
+      "toNode": "0000000000000020",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000023",
+      "fromNode": "0000000000000016",
+      "fromSide": "left",
+      "toNode": "0000000000000022",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000025",
+      "fromNode": "0000000000000016",
+      "fromSide": "left",
+      "toNode": "0000000000000024",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000028",
+      "fromNode": "0000000000000001",
+      "fromSide": "bottom",
+      "toNode": "0000000000000027",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "阅读分组"
+    },
+    {
+      "id": "000000000000002a",
+      "fromNode": "0000000000000027",
+      "fromSide": "left",
+      "toNode": "0000000000000029",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000002c",
+      "fromNode": "0000000000000027",
+      "fromSide": "left",
+      "toNode": "000000000000002b",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000002e",
+      "fromNode": "0000000000000027",
+      "fromSide": "left",
+      "toNode": "000000000000002d",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000030",
+      "fromNode": "0000000000000027",
+      "fromSide": "left",
+      "toNode": "000000000000002f",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000032",
+      "fromNode": "0000000000000027",
+      "fromSide": "left",
+      "toNode": "0000000000000031",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000035",
+      "fromNode": "0000000000000001",
+      "fromSide": "bottom",
+      "toNode": "0000000000000034",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "阅读分组"
+    },
+    {
+      "id": "0000000000000037",
+      "fromNode": "0000000000000034",
+      "fromSide": "left",
+      "toNode": "0000000000000036",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000039",
+      "fromNode": "0000000000000034",
+      "fromSide": "left",
+      "toNode": "0000000000000038",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000003b",
+      "fromNode": "0000000000000034",
+      "fromSide": "left",
+      "toNode": "000000000000003a",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "000000000000003e",
+      "fromNode": "0000000000000001",
+      "fromSide": "bottom",
+      "toNode": "000000000000003d",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "阅读分组"
+    },
+    {
+      "id": "0000000000000040",
+      "fromNode": "000000000000003d",
+      "fromSide": "left",
+      "toNode": "000000000000003f",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000042",
+      "fromNode": "000000000000003d",
+      "fromSide": "left",
+      "toNode": "0000000000000041",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000044",
+      "fromNode": "000000000000003d",
+      "fromSide": "left",
+      "toNode": "0000000000000043",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000046",
+      "fromNode": "000000000000003d",
+      "fromSide": "left",
+      "toNode": "0000000000000045",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "卡片入口"
+    },
+    {
+      "id": "0000000000000052",
+      "fromNode": "0000000000000005",
+      "fromSide": "right",
+      "toNode": "0000000000000007",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "需求起点"
+    },
+    {
+      "id": "0000000000000053",
+      "fromNode": "0000000000000005",
+      "fromSide": "right",
+      "toNode": "0000000000000041",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "贯穿活动"
+    },
+    {
+      "id": "0000000000000054",
+      "fromNode": "0000000000000005",
+      "fromSide": "right",
+      "toNode": "0000000000000048",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "跨章生命周期"
+    },
+    {
+      "id": "0000000000000055",
+      "fromNode": "0000000000000007",
+      "fromSide": "right",
+      "toNode": "0000000000000009",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "另一分类维度"
+    },
+    {
+      "id": "0000000000000056",
+      "fromNode": "0000000000000007",
+      "fromSide": "right",
+      "toNode": "000000000000000b",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "获取与质量"
+    },
+    {
+      "id": "0000000000000057",
+      "fromNode": "0000000000000007",
+      "fromSide": "right",
+      "toNode": "0000000000000011",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "成果记录"
+    },
+    {
+      "id": "0000000000000058",
+      "fromNode": "0000000000000009",
+      "fromSide": "right",
+      "toNode": "000000000000000b",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "获取手段"
+    },
+    {
+      "id": "0000000000000059",
+      "fromNode": "000000000000000b",
+      "fromSide": "right",
+      "toNode": "000000000000000d",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "结构化分析"
+    },
+    {
+      "id": "000000000000005a",
+      "fromNode": "000000000000000b",
+      "fromSide": "right",
+      "toNode": "000000000000000f",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "面向对象分析"
+    },
+    {
+      "id": "000000000000005b",
+      "fromNode": "000000000000000b",
+      "fromSide": "right",
+      "toNode": "0000000000000011",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "追踪落地"
+    },
+    {
+      "id": "000000000000005c",
+      "fromNode": "000000000000000d",
+      "fromSide": "right",
+      "toNode": "000000000000000f",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "方法对比"
+    },
+    {
+      "id": "000000000000005d",
+      "fromNode": "000000000000000d",
+      "fromSide": "right",
+      "toNode": "0000000000000018",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "后续设计"
+    },
+    {
+      "id": "000000000000005e",
+      "fromNode": "000000000000000d",
+      "fromSide": "right",
+      "toNode": "0000000000000049",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "数据建模联系"
+    },
+    {
+      "id": "000000000000005f",
+      "fromNode": "000000000000000f",
+      "fromSide": "right",
+      "toNode": "000000000000001e",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "设计延续"
+    },
+    {
+      "id": "0000000000000060",
+      "fromNode": "000000000000000f",
+      "fromSide": "right",
+      "toNode": "0000000000000020",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "建模表达"
+    },
+    {
+      "id": "0000000000000061",
+      "fromNode": "0000000000000011",
+      "fromSide": "right",
+      "toNode": "0000000000000013",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "受控变更"
+    },
+    {
+      "id": "0000000000000062",
+      "fromNode": "0000000000000011",
+      "fromSide": "right",
+      "toNode": "000000000000002d",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "测试联系"
+    },
+    {
+      "id": "0000000000000063",
+      "fromNode": "0000000000000013",
+      "fromSide": "right",
+      "toNode": "0000000000000029",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "配置管理联系"
+    },
+    {
+      "id": "0000000000000064",
+      "fromNode": "0000000000000018",
+      "fromSide": "right",
+      "toNode": "000000000000001a",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "模块关系"
+    },
+    {
+      "id": "0000000000000065",
+      "fromNode": "0000000000000018",
+      "fromSide": "right",
+      "toNode": "000000000000001c",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "阶段展开"
+    },
+    {
+      "id": "0000000000000066",
+      "fromNode": "0000000000000018",
+      "fromSide": "right",
+      "toNode": "000000000000004a",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "跨章设计联系"
+    },
+    {
+      "id": "0000000000000067",
+      "fromNode": "000000000000001a",
+      "fromSide": "right",
+      "toNode": "000000000000004a",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "降低模块间依赖"
+    },
+    {
+      "id": "0000000000000068",
+      "fromNode": "000000000000001c",
+      "fromSide": "right",
+      "toNode": "0000000000000020",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "与UML比较"
+    },
+    {
+      "id": "0000000000000069",
+      "fromNode": "000000000000001c",
+      "fromSide": "right",
+      "toNode": "0000000000000013",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "变更控制联系"
+    },
+    {
+      "id": "000000000000006a",
+      "fromNode": "000000000000001e",
+      "fromSide": "right",
+      "toNode": "0000000000000022",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "关系表达"
+    },
+    {
+      "id": "000000000000006b",
+      "fromNode": "000000000000001e",
+      "fromSide": "right",
+      "toNode": "0000000000000024",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "设计分类"
+    },
+    {
+      "id": "000000000000006c",
+      "fromNode": "0000000000000020",
+      "fromSide": "right",
+      "toNode": "0000000000000022",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "关系与视角"
+    },
+    {
+      "id": "000000000000006d",
+      "fromNode": "0000000000000022",
+      "fromSide": "right",
+      "toNode": "000000000000004b",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "架构观察角度"
+    },
+    {
+      "id": "000000000000006e",
+      "fromNode": "0000000000000024",
+      "fromSide": "right",
+      "toNode": "000000000000001a",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "图表归属对比"
+    },
+    {
+      "id": "000000000000006f",
+      "fromNode": "0000000000000029",
+      "fromSide": "right",
+      "toNode": "0000000000000036",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "部署衔接"
+    },
+    {
+      "id": "0000000000000070",
+      "fromNode": "0000000000000029",
+      "fromSide": "right",
+      "toNode": "0000000000000041",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "过程保障"
+    },
+    {
+      "id": "0000000000000071",
+      "fromNode": "000000000000002b",
+      "fromSide": "right",
+      "toNode": "000000000000001c",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "设计依据"
+    },
+    {
+      "id": "0000000000000072",
+      "fromNode": "000000000000002b",
+      "fromSide": "right",
+      "toNode": "000000000000002d",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "实现验证"
+    },
+    {
+      "id": "0000000000000073",
+      "fromNode": "000000000000002d",
+      "fromSide": "right",
+      "toNode": "000000000000002f",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "分类维度对比"
+    },
+    {
+      "id": "0000000000000074",
+      "fromNode": "000000000000002d",
+      "fromSide": "right",
+      "toNode": "0000000000000031",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "缺陷定位"
+    },
+    {
+      "id": "0000000000000075",
+      "fromNode": "000000000000002d",
+      "fromSide": "right",
+      "toNode": "0000000000000041",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "质量保障联系"
+    },
+    {
+      "id": "0000000000000076",
+      "fromNode": "000000000000002f",
+      "fromSide": "right",
+      "toNode": "0000000000000029",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "变更触发"
+    },
+    {
+      "id": "0000000000000077",
+      "fromNode": "0000000000000031",
+      "fromSide": "right",
+      "toNode": "000000000000002f",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "修复后验证"
+    },
+    {
+      "id": "0000000000000078",
+      "fromNode": "0000000000000036",
+      "fromSide": "right",
+      "toNode": "0000000000000038",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "过程管理"
+    },
+    {
+      "id": "0000000000000079",
+      "fromNode": "0000000000000036",
+      "fromSide": "right",
+      "toNode": "000000000000003a",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "切换策略"
+    },
+    {
+      "id": "000000000000007a",
+      "fromNode": "0000000000000036",
+      "fromSide": "right",
+      "toNode": "000000000000004c",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "架构背景"
+    },
+    {
+      "id": "000000000000007b",
+      "fromNode": "0000000000000036",
+      "fromSide": "right",
+      "toNode": "000000000000004d",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "服务生命周期联系"
+    },
+    {
+      "id": "000000000000007c",
+      "fromNode": "0000000000000038",
+      "fromSide": "right",
+      "toNode": "000000000000003a",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "切换策略"
+    },
+    {
+      "id": "000000000000007d",
+      "fromNode": "0000000000000038",
+      "fromSide": "right",
+      "toNode": "000000000000004e",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "自动化原则联系"
+    },
+    {
+      "id": "000000000000007e",
+      "fromNode": "000000000000003a",
+      "fromSide": "right",
+      "toNode": "000000000000004f",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "连续性目标联系"
+    },
+    {
+      "id": "000000000000007f",
+      "fromNode": "000000000000003f",
+      "fromSide": "right",
+      "toNode": "0000000000000041",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "保障方法"
+    },
+    {
+      "id": "0000000000000080",
+      "fromNode": "000000000000003f",
+      "fromSide": "right",
+      "toNode": "0000000000000050",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "跨章评价对象对比"
+    },
+    {
+      "id": "0000000000000081",
+      "fromNode": "0000000000000041",
+      "fromSide": "right",
+      "toNode": "0000000000000043",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "过程能力联系"
+    },
+    {
+      "id": "0000000000000082",
+      "fromNode": "0000000000000043",
+      "fromSide": "right",
+      "toNode": "0000000000000045",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "等级维度"
+    },
+    {
+      "id": "0000000000000083",
+      "fromNode": "0000000000000045",
+      "fromSide": "right",
+      "toNode": "0000000000000051",
+      "toSide": "right",
+      "toEnd": "arrow",
+      "label": "勿混用服务过程层次"
+    }
+  ]
+}
