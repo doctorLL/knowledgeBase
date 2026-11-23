@@ -13,6 +13,8 @@ tags: [学习, 英语, 原文]
 
 返回 [[20-领域/学习/英语/Daily English Talk/EP02 How to Talk About the weather in English|EP02 学习笔记]]
 
+> 原始文件:[[99-附件/transcripts/EP02 How to Talk About the weather in English.txt|带时间轴 txt]] · [[99-附件/transcripts/EP02 How to Talk About the weather in English.plain.txt|纯文本]] · [[99-附件/subtitles/EP02 How to Talk About the weather in English.srt|字幕 srt]]
+
 ## 00:00 – 01:22  开场
 
 Hello. Welcome back to Daily English Talk. Hi, everyone. We're so happy you're here with us today. I'm Emma. And I'm Jack. We make these videos to help you practice English in a fun and easy way. Please, if you like our videos, help us by liking and subscribing. It helps so much. Yes, it really does. Thank you. So, what are we talking about today, Emma? Today, we are talking about something very common, something everyone talks about. The weather. So, Emma, how are you today? I'm very well. Thank you, Jack. And you? I'm great. I'm a little tired, but I'm good. Oh, why are you tired? Did you have a busy weekend? I did. On Saturday, I went for a long walk in the park. It was so nice. That sounds lovely. What did you do on Sunday? On Sunday, I cleaned my apartment. It was very boring. But now it's very clean. I understand. I also cleaned my apartment on Sunday. But in the evening, I watched a movie. Oh, which movie? It was an old comedy. It was very funny. I laughed a lot. Nice. I need to watch a funny movie next weekend. Yes, you do. It's good for you.

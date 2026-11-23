@@ -13,6 +13,8 @@ tags: [学习, 英语, 原文]
 
 返回 [[20-领域/学习/英语/Daily English Talk/EP01 How to Talk About Your Weekend|EP01 学习笔记]]
 
+> 原始文件:[[99-附件/transcripts/EP01 How to Talk About Your Weekend.txt|带时间轴 txt]] · [[99-附件/transcripts/EP01 How to Talk About Your Weekend.plain.txt|纯文本]] · [[99-附件/subtitles/EP01 How to Talk About Your Weekend.srt|字幕 srt]]
+
 ## 00:00 – 01:16  开场
 
 Hello, welcome back to Daily English Talk. Hi, everyone. We're so happy to see you. I'm Emma. And I'm Jack. On this channel, we help you practice real, everyday English. Please, if you like our video, don't forget to like and subscribe. It helps us a lot. Yes, please subscribe. It makes Emma very happy. Today, we are going to talk about a very common topic. A very useful topic. We are going to talk about our weekends. That's right. Talking about your weekend. Let's begin. So, Jack, how are you today? I am great. Thank you. And you? I'm pretty good. A little tired, but good. Tired? Why are you tired? Did you have a busy weekend? You know me too well. Yes, my weekend was very busy, but it was fun. I want to hear about it, but first, let's talk to our friends. Yes. Hello, friends. How are you? How was your weekend? Think about your answer. Was it good? Was it busy? Was it relaxing? We want to know, but first, you can listen to us. Okay, Emma.
