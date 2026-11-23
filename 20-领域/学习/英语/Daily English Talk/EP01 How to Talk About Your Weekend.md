@@ -14,6 +14,9 @@ tags: [学习, 英语, 口语, 词汇]
 
 返回 [[20-领域/学习/英语/英语学习首页|英语学习首页]]
 
+> 逐句原文:[[20-领域/学习/英语/Daily English Talk/EP01 How to Talk About Your Weekend - 原文|EP01 原文时间轴]]
+> 字幕文件:[[99-附件/subtitles/EP01 How to Talk About Your Weekend.srt|EP01.srt]](配视频播放器用)
+
 ## 复述对照答案
 
 先别看这段。自己口头讲一遍本集大意,再回来对照。
@@ -72,19 +75,19 @@ tags: [学习, 英语, 口语, 词汇]
 
 ### 第二梯队
 
-| 单词 | 音标 | 释义 | 本集原句 / 提示 |
-|---|---|---|---|
-| hilarious | /hɪˈleəriəs/ | 特别好笑 | `It was hilarious. I laughed so much.` 比 funny 强得多 |
-| lively | /ˈlaɪvli/ | 热闹的 | `Children were playing. It was very lively.` |
-| peaceful | /ˈpiːsfl/ | 宁静的 | `I listened to the waves. It was very peaceful.` 比 quiet 多了"心里舒服" |
-| cozy | /ˈkoʊzi/ | 温暖舒适的 | `Sounds cozy.` 专指室内温暖舒服,冬天宅家标配 |
-| organized | /ˈɔːrɡənaɪzd/ | 有条理的 | `You are so organized.` 反义 messy |
-| jealous | /ˈdʒeləs/ | 羡慕的 | `I'm a little jealous.` 日常口语的客气式羡慕,无恶意 |
-| sunburn | /ˈsʌnbɜːrn/ | 晒伤 | `Did you get a sunburn?` |
-| sunscreen | /ˈsʌnskriːn/ | 防晒霜 | `I forgot the sunscreen.` |
-| grocery shopping | /ˈɡroʊsəri/ | 买菜、日用采购 | `Ah, grocery shopping. Not so fun.` |
-| campfire | /ˈkæmpfaɪə/ | 营火 | `We cooked food on a campfire.` |
-| hypothetical | /ˌhaɪpəˈθetɪkl/ | 假设的 | Jack 用的"大词",Emma 吐槽 `That's a big word` |
+| 单词               | 音标              | 释义      | 本集原句 / 提示                                                         |
+| ---------------- | --------------- | ------- | ----------------------------------------------------------------- |
+| hilarious        | /hɪˈleəriəs/    | 特别好笑    | `It was hilarious. I laughed so much.` 比 funny 强得多                |
+| lively           | /ˈlaɪvli/       | 热闹的     | `Children were playing. It was very lively.`                      |
+| peaceful         | /ˈpiːsfl/       | 宁静的     | `I listened to the waves. It was very peaceful.` 比 quiet 多了"心里舒服" |
+| cozy             | /ˈkoʊzi/        | 温暖舒适的   | `Sounds cozy.` 专指室内温暖舒服,冬天宅家标配                                    |
+| organized        | /ˈɔːrɡənaɪzd/   | 有条理的    | `You are so organized.` 反义 messy                                  |
+| jealous          | /ˈdʒeləs/       | 羡慕的     | `I'm a little jealous.` 日常口语的客气式羡慕,无恶意                            |
+| sunburn          | /ˈsʌnbɜːrn/     | 晒伤      | `Did you get a sunburn?`                                          |
+| sunscreen        | /ˈsʌnskriːn/    | 防晒霜     | `I forgot the sunscreen.`                                         |
+| grocery shopping | /ˈɡroʊsəri/     | 买菜、日用采购 | `Ah, grocery shopping. Not so fun.`                               |
+| campfire         | /ˈkæmpfaɪə/     | 营火      | `We cooked food on a campfire.`                                   |
+| hypothetical     | /ˌhaɪpəˈθetɪkl/ | 假设的     | Jack 用的"大词",Emma 吐槽 `That's a big word`                           |
 
 ## 高频句型
 
