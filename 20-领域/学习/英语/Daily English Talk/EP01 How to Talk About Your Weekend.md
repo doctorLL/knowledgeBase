@@ -70,6 +70,10 @@ tags: [学习, 英语, 口语, 词汇]
 - ⚠️ 只形容食物和饮料,不能说 a delicious movie(本集专门拿这个开玩笑)
 - 形容影视用:good / funny / exciting / moving
 
+**sentence** /ˈsentəns/ n.句子，句；判决，判刑；命题  v.判决，宣判，判刑
+- `Sentence is the basic unit of speech communication.`
+
+
 ### 第二梯队
 
 | 单词 | 音标 | 释义 | 本集原句 / 提示 |
