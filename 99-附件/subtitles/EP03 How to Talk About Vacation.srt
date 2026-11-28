@@ -399,1193 +399,1201 @@ I book the hotel and the flight many months early.
 I am the same. I like to have a plan. It makes me feel calm and safe. I don't like surprises.
 
 101
-00:04:56,820 --> 00:04:59,860
-Exactly. If I don't have a hotel booking, I feel
+00:04:56,840 --> 00:05:05,240
+Exactly. If I don't have a hotel booking, I feel nervous. So, what is your dream vacation?
 
 102
-00:05:00,000 --> 00:05:07,000
-I love the culture. It is so different. I want to see Tokyo, the big city. I want to see the cherry blossoms in spring and I really, really want to try the food.
+00:05:05,240 --> 00:05:07,160
+If you can go anywhere in the world.
 
 103
-00:05:30,000 --> 00:05:31,960
-sushi, ramen, tempura.
+00:05:07,160 --> 00:05:10,600
+My dream vacation. Oh, that's easy. Japan.
 
 104
-00:05:31,960 --> 00:05:32,960
-Yes!
+00:05:10,600 --> 00:05:13,880
+Japan? Why Japan? That is far away.
 
 105
-00:05:32,960 --> 00:05:35,980
-I am very excited to go one day.
+00:05:13,880 --> 00:05:21,160
+I love the culture. It is so different. I want to see Tokyo, the big city. I want to
 
 106
-00:05:35,980 --> 00:05:37,960
-What is your dream vacation, Jack?
+00:05:21,160 --> 00:05:27,000
+see the cherry blossoms in spring, and I really, really want to try the food.
 
 107
+00:05:27,000 --> 00:05:32,040
+The food is very good in Japan, I hear. Sushi, ramen, tempura?
+
+108
+00:05:32,040 --> 00:05:37,800
+Yes! I am very excited to go one day. What is your dream vacation, Jack?
+
+109
 00:05:37,960 --> 00:05:40,800
 My dream vacation is in Brazil.
 
-108
+110
 00:05:40,800 --> 00:05:43,900
 I want to see the carnival in Rio de Janeiro.
 
-109
+111
 00:05:43,900 --> 00:05:47,840
 It looks so fun and colorful with music and dancing everywhere.
 
-110
+112
 00:05:47,840 --> 00:05:50,640
 Oh, that would be a big adventure!
 
-111
+113
 00:05:50,640 --> 00:05:54,200
 Do you like long vacations or short vacations?
 
-112
+114
 00:05:54,200 --> 00:05:56,660
 I like long vacations.
 
-113
+115
 00:05:56,660 --> 00:06:02,220
 week or two weeks, you have more time to relax and you don't think about work.
 
-114
+116
 00:06:02,220 --> 00:06:09,640
 I agree. A short vacation of two or three days is too fast. You come home and you feel tired,
 
-115
+117
 00:06:09,640 --> 00:06:10,640
 not relaxed.
 
-116
+118
 00:06:10,640 --> 00:06:18,220
 Yes, exactly. How do you travel to your vacations? By plane? By train? By car?
 
-117
+119
 00:06:18,220 --> 00:06:25,020
 I usually travel by plane. It is fast for long distances. But I like trains too. You
 
-118
+120
 00:06:25,020 --> 00:06:27,780
 You can see the countryside from the window.
 
-119
+121
 00:06:27,780 --> 00:06:28,780
 It's beautiful.
 
-120
+122
 00:06:28,780 --> 00:06:30,500
 I get a little nervous on planes.
 
-121
+123
 00:06:30,500 --> 00:06:35,500
 The takeoff is scary for me, but for long distances, it is the best way.
 
-122
+124
 00:06:35,500 --> 00:06:36,880
 I understand.
 
-123
+125
 00:06:36,880 --> 00:06:40,620
 Do you stay in hotels or in apartments?
 
-124
+126
 00:06:40,620 --> 00:06:42,680
 I usually stay in hotels.
 
-125
+127
 00:06:42,680 --> 00:06:44,860
 I like hotel breakfasts.
 
-126
+128
 00:06:44,860 --> 00:06:49,940
 You can eat so much food, eggs, bread, fruit, coffee.
 
-127
+129
 00:06:49,940 --> 00:06:51,960
 Hotel breakfasts are the best.
 
-128
+130
 00:06:51,960 --> 00:06:53,040
 So much choice.
 
-129
+131
 00:06:53,040 --> 00:06:54,260
 I love it.
 
-130
+132
 00:06:54,260 --> 00:07:01,700
 I know. Sometimes I stay in an apartment. It is cheaper and you can cook your own food, like at home.
 
-131
+133
 00:07:01,700 --> 00:07:04,660
 That's true. Cooking on vacation can save money.
 
-132
+134
 00:07:04,660 --> 00:07:06,580
 Do you buy souvenirs?
 
-133
+135
 00:07:06,580 --> 00:07:11,380
 Souvenirs. You mean gifts for friends and family?
 
-134
+136
 00:07:11,380 --> 00:07:16,100
 Yes, and for yourself. A small thing to remember the trip.
 
-135
+137
 00:07:16,820 --> 00:07:23,860
 I always buy a magnet from my fridge. It is a small, cheap souvenir. My fridge is full of
 
-136
+138
 00:07:23,860 --> 00:07:27,940
 magnets from all my trips. It's like a map of my travels.
 
-137
+139
 00:07:28,180 --> 00:07:32,660
 That's a great idea. I buy postcards. I don't send them.
 
-138
+140
 00:07:32,700 --> 00:07:36,780
 I just keep them in a book. I write on the back what I did that day.
 
-139
+141
 00:07:37,060 --> 00:07:42,300
 That's very nice. So what is the most beautiful place you visited?
 
-140
+142
 00:07:42,540 --> 00:07:47,540
 The most beautiful place. I think it was Norway.
 
-141
+143
 00:07:47,860 --> 00:07:50,540
 The fjords are incredible.
 
-142
+144
 00:07:50,540 --> 00:07:53,880
 The water is between big, big mountains,
 
-143
+145
 00:07:53,880 --> 00:07:56,080
 so quiet and beautiful.
 
-144
+146
 00:07:56,080 --> 00:07:59,340
 I saw photos, it looks amazing.
 
-145
+147
 00:07:59,340 --> 00:08:04,340
 For me, the most beautiful place was Greece, I think.
 
-146
+148
 00:08:04,840 --> 00:08:08,520
 The White Houses and the Blue Sea is like a picture.
 
-147
+149
 00:08:08,520 --> 00:08:10,940
 Do you think vacations are important?
 
-148
+150
 00:08:10,940 --> 00:08:13,480
 Yes, I do, they are very important.
 
-149
+151
 00:08:13,480 --> 00:08:17,780
 We work hard, we need a break, we need to rest our minds.
 
-150
+152
 00:08:17,780 --> 00:08:24,660
 I agree. It is good for your mental health. You come back home feeling new and happy?
 
-151
+153
 00:08:24,660 --> 00:08:32,020
 Feeling new. I like that. It's true. Do you ever have a bad vacation? A vacation with problems?
 
-152
+154
 00:08:32,020 --> 00:08:39,860
 A bad vacation? Oh yes. One time, my flight was cancelled. I had to wait at the airport
 
-153
+155
 00:08:39,860 --> 00:08:48,340
 for twelve hours. It was so boring. Oh no, that is a nightmare. I am sorry. Airports
 
-154
+156
 00:08:48,340 --> 00:08:54,820
 are not fun for twelve hours. It was not fun, but in the end, I got on another flight,
 
-155
+157
 00:08:54,820 --> 00:09:01,780
 so it was okay. Did you have a bad vacation? Oh, one time I lost my bag at the airport.
 
-156
+158
 00:09:01,780 --> 00:09:06,420
 It had all my clothes inside, my shirts, my pants, everything.
 
-157
+159
 00:09:06,420 --> 00:09:10,980
 Oh, Jack! That is terrible! What did you do?
 
-158
+160
 00:09:10,980 --> 00:09:18,260
 I had to buy new clothes. It was very expensive. I was sad, but I got my bag back after three days.
 
-159
+161
 00:09:18,260 --> 00:09:21,860
 I'm glad you got it back. That is a big vacation problem.
 
-160
+162
 00:09:21,860 --> 00:09:30,420
 Yes, a very big problem. So, let's talk about good things. What is your favorite vacation memory?
 
-161
+163
 00:09:30,420 --> 00:09:38,820
 My favorite memory. I was in Italy in a small city called Venice. I was eating gelato,
 
-162
+164
 00:09:38,820 --> 00:09:46,100
 looking at an old church. The sun was setting. The sky was orange and pink. It was perfect.
 
-163
+165
 00:09:46,100 --> 00:09:51,540
 That sounds like a movie. Beautiful. My favorite memory was from Greece,
 
-164
+166
 00:09:52,260 --> 00:09:58,420
 swimming in the sea at night. The water was warm and you could see thousands of stars in the sky.
 
-165
+167
 00:09:58,420 --> 00:09:59,920
 WONDERFUL
 
-166
+168
 00:10:00,000 --> 00:10:02,880
 Hello. Do you like to try new food on vacation?
 
-167
+169
 00:10:02,880 --> 00:10:09,360
 Of course. Trying new food is one of the best parts of traveling. I always look for local restaurants.
 
-168
+170
 00:10:09,360 --> 00:10:14,000
 Me too. Even if I don't know the name of the food, I just point and say,
 
-169
+171
 00:10:14,000 --> 00:10:16,720
 I'll have that please. It's a surprise.
 
-170
+172
 00:10:16,720 --> 00:10:23,600
 It's an adventure for your mouth. Sometimes it's good, sometimes it's… interesting.
 
-171
+173
 00:10:23,600 --> 00:10:28,640
 That's a funny way to say it. But it's true. Do you learn a few words in the local language?
 
-172
+174
 00:10:28,640 --> 00:10:35,080
 Oh, I try. I always learn hello, thank you, and goodbye. It is polite, and people smile
 
-173
+175
 00:10:35,080 --> 00:10:36,080
 when you try.
 
-174
+176
 00:10:36,080 --> 00:10:41,920
 Yes, it is. People are happy when you try to speak their language, even just a little.
 
-175
+177
 00:10:41,920 --> 00:10:47,680
 For sure. So, Emma, what is your plan for your next vacation? Do you know yet?
 
-176
+178
 00:10:47,680 --> 00:10:56,040
 My next vacation? I am planning to go to Spain. I want to see Barcelona and Madrid. I hear
 
-177
+179
 00:10:56,040 --> 00:10:58,160
 the art is amazing.
 
-178
+180
 00:10:58,160 --> 00:11:04,240
 Spain is fantastic. The architecture is beautiful and the people are friendly.
 
-179
+181
 00:11:04,240 --> 00:11:09,920
 Yes, I am very excited to go one day. What is your dream vacation, Jack?
 
-180
+182
 00:11:09,920 --> 00:11:16,560
 My dream vacation is in Brazil. I want to see the carnival in Rio de Janeiro. It looks
 
-181
+183
 00:11:16,560 --> 00:11:20,440
 so fun and colorful with music and dancing everywhere.
 
-182
+184
 00:11:20,440 --> 00:11:26,760
 Oh, that would be a big adventure. Do you like long vacations or short vacations?
 
-183
+185
 00:11:26,760 --> 00:11:29,360
 I like long vacations.
 
-184
+186
 00:11:29,360 --> 00:11:35,160
 One week or two weeks, you have more time to relax and you don't think about work.
 
-185
+187
 00:11:35,160 --> 00:11:36,240
 I agree.
 
-186
+188
 00:11:36,240 --> 00:11:39,900
 A short vacation of two or three days is too fast.
 
-187
+189
 00:11:39,900 --> 00:11:43,080
 You come home and you feel tired, not relaxed.
 
-188
+190
 00:11:43,080 --> 00:11:45,160
 Yes, exactly.
 
-189
+191
 00:11:45,160 --> 00:11:47,460
 How do you travel to your vacations?
 
-190
+192
 00:11:47,460 --> 00:11:48,560
 By plane?
 
-191
+193
 00:11:48,560 --> 00:11:49,680
 By train?
 
-192
+194
 00:11:49,680 --> 00:11:50,680
 By car?
 
-193
+195
 00:11:50,680 --> 00:11:53,500
 I usually travel by plane.
 
-194
+196
 00:11:53,500 --> 00:11:55,960
 It is fast for long distances.
 
-195
+197
 00:11:55,960 --> 00:12:00,880
 I like trains too. You can see the countryside from the window. It's beautiful.
 
-196
+198
 00:12:01,000 --> 00:12:05,440
 I get a little nervous on planes. The takeoff is scary for me, but for long
 
-197
+199
 00:12:05,440 --> 00:12:07,640
 distances, it is the best way.
 
-198
+200
 00:12:08,160 --> 00:12:12,160
 I understand. Do you stay in hotels or in apartments?
 
-199
+201
 00:12:13,160 --> 00:12:17,160
 Oh, I have a list on my phone for packing. It helps me remember everything.
 
-200
+202
 00:12:17,520 --> 00:12:21,600
 A list? That is very, very good idea. I should do that.
 
-201
+203
 00:12:21,600 --> 00:12:23,760
 My brain is not good for remembering.
 
-202
+204
 00:12:23,760 --> 00:12:29,600
 You should. It makes packing so much easier. Do you like to listen to music when you travel?
 
-203
+205
 00:12:29,600 --> 00:12:39,360
 Yes. On the plane or on the train, I listen to music. It makes the time pass faster. I have a special travel playlist.
 
-204
+206
 00:12:39,360 --> 00:12:45,440
 Same for me. I also like to look out the window and just watch the world go by.
 
-205
+207
 00:12:45,440 --> 00:12:48,440
 That is nice too, especially on a train.
 
-206
+208
 00:12:48,440 --> 00:12:54,440
 So, we both love vacations, but what do you miss about home when you travel?
 
-207
+209
 00:12:54,440 --> 00:12:57,440
 I miss my own bed.
 
-208
+210
 00:12:57,440 --> 00:13:01,440
 Hotel beds are nice, but my bed is the best.
 
-209
+211
 00:13:01,440 --> 00:13:04,440
 And I miss my morning coffee from my own kitchen.
 
-210
+212
 00:13:04,440 --> 00:13:07,440
 I understand. I miss my pets. I have a cat.
 
-211
+213
 00:13:07,440 --> 00:13:11,440
 I always ask my friend to send me photos of her when I'm away.
 
-212
+214
 00:13:11,440 --> 00:13:17,000
 Aww, that's sweet. Do you prefer traveling with a group or alone?
 
-213
+215
 00:13:17,000 --> 00:13:22,540
 Hmm, I like traveling with one or two good friends. Alone is okay, but it's more fun
 
-214
+216
 00:13:22,540 --> 00:13:25,680
 to share the experience. What about you?
 
-215
+217
 00:13:25,680 --> 00:13:31,000
 I think the same. With friends, you can talk about the things you see. Alone can be a little
 
-216
+218
 00:13:31,000 --> 00:13:32,680
 lonely sometimes.
 
-217
+219
 00:13:32,680 --> 00:14:07,410
 Yes. Emma, that was a really fun talk about vacations.
 
-218
+220
 00:14:07,410 --> 00:14:10,130
 We used a lot of good English words.
 
-219
+221
 00:14:10,130 --> 00:14:11,690
 We did.
 
-220
+222
 00:14:11,690 --> 00:14:16,330
 Maybe we can talk about some of those words again for our viewers, you know, to help them
 
-221
+223
 00:14:16,330 --> 00:14:17,330
 remember.
 
-222
+224
 00:14:17,330 --> 00:14:18,530
 That's a wonderful idea.
 
-223
+225
 00:14:18,530 --> 00:14:21,170
 Let's do a mini vocabulary review.
 
-224
+226
 00:14:21,170 --> 00:14:23,570
 We can explain the words simply.
 
-225
+227
 00:14:23,570 --> 00:14:24,570
 Perfect.
 
-226
+228
 00:14:24,570 --> 00:14:28,170
 Okay, let's start with a word you said, Jack.
 
-227
+229
 00:14:28,170 --> 00:14:29,170
 Souvenir.
 
-228
+230
 00:14:29,170 --> 00:14:30,570
 Ah, yes, souvenir.
 
-229
+231
 00:14:30,570 --> 00:14:34,210
 I said I buy a magnet as a souvenir.
 
-230
+232
 00:14:34,210 --> 00:14:39,630
 So a souvenir is something you buy to help you remember a place you visited.
 
-231
+233
 00:14:39,630 --> 00:14:41,550
 Can you give another example of a souvenir?
 
-232
+234
 00:14:41,550 --> 00:14:42,550
 Of course.
 
-233
+235
 00:14:42,550 --> 00:14:44,750
 A souvenir can be many things.
 
-234
+236
 00:14:44,750 --> 00:14:51,390
 A keychain with the name of a city, a postcard, a t-shirt, or a small statue.
 
-235
+237
 00:14:51,390 --> 00:14:55,110
 It's a memory from your trip that you can hold in your hands.
 
-236
+238
 00:14:55,110 --> 00:14:58,070
 And it's not usually very expensive, right?
 
-237
+239
 00:14:58,070 --> 00:14:59,950
 It's a small gift for yourself.
 
-238
+240
 00:15:00,000 --> 00:15:08,000
 Yes, exactly. My sister always asks me, Jack, did you bring me a souvenir? So I have to buy one for her too.
 
-239
+241
 00:15:08,000 --> 00:15:12,000
 That's nice. Okay, the next word is one I used. Hiking.
 
-240
+242
 00:15:12,000 --> 00:15:18,000
 Yes, you said you love hiking in the mountains. So what does it mean exactly?
 
-241
+243
 00:15:18,000 --> 00:15:28,000
 Hiking means walking in nature for fun or exercise. It's not a walk in the city to the shops, it's a walk on a path in the mountains,
 
-242
+244
 00:15:28,000 --> 00:15:31,240
 mountains, in a forest, or by a river.
 
-243
+245
 00:15:31,240 --> 00:15:35,200
 So if I go for a walk in the park in my town, is that hiking?
 
-244
+246
 00:15:35,200 --> 00:15:36,200
 Good question.
 
-245
+247
 00:15:36,200 --> 00:15:41,800
 A short walk in the town park is usually just called a walk.
 
-246
+248
 00:15:41,800 --> 00:15:47,200
 Hiking is usually longer and in a more natural place, like a national park.
 
-247
+249
 00:15:47,200 --> 00:15:48,280
 I see.
 
-248
+250
 00:15:48,280 --> 00:15:50,440
 And you need good shoes for hiking, right?
 
-249
+251
 00:15:50,440 --> 00:15:52,680
 Oh yes, very important.
 
-250
+252
 00:15:52,680 --> 00:15:55,440
 You need strong, comfortable shoes.
 
-251
+253
 00:15:55,440 --> 00:15:57,080
 We call them hiking boots.
 
-252
+254
 00:15:57,080 --> 00:16:02,840
 don't want to wear sandals for hiking. No, that would be a bad idea. Okay, I understand
 
-253
+255
 00:16:02,840 --> 00:16:08,600
 hiking now. It's a walk in nature. Correct. The next word is a little more difficult,
 
-254
+256
 00:16:08,600 --> 00:16:15,320
 spontaneous. Spontaneous? That was a new word for me today. Can you explain it again, Emma?
 
-255
+257
 00:16:15,320 --> 00:16:24,040
 Of course. Spontaneous means you do something without a lot of planning. You decide to do it
 
-256
+258
 00:16:24,040 --> 00:16:26,760
 suddenly, at the moment, it's not planned.
 
-257
+259
 00:16:26,760 --> 00:16:30,360
 So, can you give me an example of a spontaneous vacation?
 
-258
+260
 00:16:30,360 --> 00:16:36,840
 Yes. For example, if on Friday after work, your friend calls and says,
 
-259
+261
 00:16:36,840 --> 00:16:42,520
 let's go to the beach this weekend. And you say, yes, and you go. That is a spontaneous trip.
 
-260
+262
 00:16:42,520 --> 00:16:48,200
 And that is not me. I am the opposite of spontaneous. I am a planner.
 
-261
+263
 00:16:48,200 --> 00:16:56,360
 Yes, you are. The opposite of spontaneous is planned or organized. So a spontaneous person
 
-262
+264
 00:16:56,360 --> 00:17:01,400
 is often surprised and a planned person is rarely surprised.
 
-263
+265
 00:17:01,400 --> 00:17:06,120
 I like to be prepared. But maybe being spontaneous is fun sometimes.
 
-264
+266
 00:17:06,120 --> 00:17:12,440
 Maybe we can try it one day. Now another word we both used, dream vacation.
 
-265
+267
 00:17:12,440 --> 00:17:19,800
 Ah, my favorite topic. A dream vacation is the vacation you want most in the world.
 
-266
+268
 00:17:19,800 --> 00:17:24,440
 It's your number one choice. It's the vacation you dream about.
 
-267
+269
 00:17:24,440 --> 00:17:31,160
 Yes, it's often a special or expensive vacation, maybe a place that is far away.
 
-268
+270
 00:17:31,160 --> 00:17:34,680
 It's not a normal vacation, it's a special one.
 
-269
+271
 00:17:34,680 --> 00:17:39,880
 For example, my dream vacation is Brazil. It's not a simple weekend trip,
 
-270
+272
 00:17:39,880 --> 00:17:43,080
 It's a big, exciting plan for the future.
 
-271
+273
 00:17:43,080 --> 00:17:51,800
 Exactly. So viewers, what is your dream vacation? Think about it. Now, let's talk about another word,
 
-272
+274
 00:17:52,600 --> 00:17:58,280
 local. Local. I think I said local food or local restaurants.
 
-273
+275
 00:17:58,280 --> 00:18:06,600
 You did. Local means from this place, from this area. So local food is the food that people
 
-274
+276
 00:18:06,600 --> 00:18:10,360
 in that place eat every day. It's traditional food for them.
 
-275
+277
 00:18:10,360 --> 00:18:18,120
 So in Italy, pizza is local food. In Japan, sushi is local food. It's not food from another country.
 
-276
+278
 00:18:18,120 --> 00:18:24,120
 Right. And a local person is someone who lives in that place. If you are lost,
 
-277
+279
 00:18:24,120 --> 00:18:27,000
 you can ask a local person for directions.
 
-278
+280
 00:18:27,000 --> 00:18:32,600
 That's a very good tip. Always ask a local person for help. They know the best places.
 
-279
+281
 00:18:32,600 --> 00:18:36,200
 Definitely. Okay, one more word. Relaxing.
 
-280
+282
 00:18:36,200 --> 00:18:38,040
 We use this word many times.
 
-281
+283
 00:18:38,040 --> 00:18:41,680
 Relaxing is a very important word for vacation.
 
-282
+284
 00:18:41,680 --> 00:18:42,520
 It is.
 
-283
+285
 00:18:42,520 --> 00:18:44,120
 What does it mean, Jack?
 
-284
+286
 00:18:44,120 --> 00:18:49,120
 Relaxing means calm, peaceful, not busy or stressful.
 
-285
+287
 00:18:49,640 --> 00:18:52,560
 It makes you feel happy and quiet.
 
-286
+288
 00:18:52,560 --> 00:18:56,360
 When I sit on the beach and read, I feel relaxed.
 
-287
+289
 00:18:56,360 --> 00:18:58,720
 That activity is relaxing.
 
-288
+290
 00:18:58,720 --> 00:19:00,640
 Perfect explanation.
 
-289
+291
 00:19:00,640 --> 00:19:03,720
 So for me, hiking is relaxing.
 
-290
+292
 00:19:03,720 --> 00:19:06,920
 For you, swimming is relaxing.
 
-291
+293
 00:19:06,920 --> 00:19:10,120
 Different activities can be relaxing for different people.
 
-292
+294
 00:19:10,120 --> 00:19:15,120
 Yes, the opposite of relaxing is stressful or busy.
 
-293
+295
 00:19:16,000 --> 00:19:18,360
 A busy day at work is not relaxing.
 
-294
+296
 00:19:18,360 --> 00:19:20,360
 A vacation should be relaxing.
 
-295
+297
 00:19:20,360 --> 00:19:23,200
 I agree, 100%.
 
-296
+298
 00:19:23,200 --> 00:19:24,880
 Should we do one more word?
 
-297
+299
 00:19:24,880 --> 00:19:26,520
 How about booking?
 
-298
+300
 00:19:26,520 --> 00:19:30,160
 Booking, yes, I said I book the hotel early.
 
-299
+301
 00:19:30,160 --> 00:19:33,200
 To book something means to reserve it,
 
-300
+302
 00:19:33,200 --> 00:19:36,860
 to say, I want this for me on this date.
 
-301
+303
 00:19:36,860 --> 00:19:38,560
 Can you use it in another sentence?
 
-302
+304
 00:19:38,560 --> 00:19:41,880
 Sure, I need to book a flight to London,
 
-303
+305
 00:19:41,880 --> 00:19:45,800
 or I booked a table for two at the restaurant.
 
-304
+306
 00:19:45,800 --> 00:19:49,000
 It means you arrange it before you go.
 
-305
+307
 00:19:49,000 --> 00:19:52,240
 And we often use it with the noun reservation.
 
-306
+308
 00:19:52,240 --> 00:19:55,200
 For example, I have a hotel reservation
 
-307
+309
 00:19:55,200 --> 00:19:57,900
 means the same as I have a booked hotel.
 
-308
+310
 00:19:57,900 --> 00:20:00,200
 It's very important to book popular.
 
-309
+311
 00:20:00,000 --> 00:20:11,040
 Okay. I think we reviewed many useful words. Souvenir, hiking, spontaneous, dream vacation,
 
-310
+312
 00:20:11,040 --> 00:20:15,760
 local and relaxing. And booking. Don't forget booking.
 
-311
+313
 00:20:15,760 --> 00:20:22,020
 And booking. Thank you, Jack. I hope that was helpful for everyone. Remember, you can write
 
-312
+314
 00:20:22,020 --> 00:20:27,120
 these words in your notebook. Yes, practice using them. Maybe you can write
 
-313
+315
 00:20:27,120 --> 00:20:32,360
 a sentence about your dream vacation in the comments, using these new words.
 
-314
+316
 00:20:32,360 --> 00:20:34,800
 That is a fantastic idea, Jack.
 
-315
+317
 00:20:34,800 --> 00:20:36,480
 You are a good teacher.
 
-316
+318
 00:20:36,480 --> 00:20:37,480
 Thank you, Emma.
 
-317
+319
 00:20:37,480 --> 00:20:38,480
 So are you.
 
-318
+320
 00:20:38,480 --> 00:20:41,560
 Now, let's tell everyone about the question of the day.
 
-319
+321
 00:20:41,560 --> 00:20:45,960
 Well, Emma, that was a really long and fun conversation.
 
-320
+322
 00:20:45,960 --> 00:20:49,400
 I almost felt like I was on vacation while we were talking.
 
-321
+323
 00:20:49,400 --> 00:20:50,840
 Me too, Jack.
 
-322
+324
 00:20:50,840 --> 00:20:54,240
 It was so nice to remember all those good trips.
 
-323
+325
 00:20:54,240 --> 00:20:58,560
 But now it's time to think about our viewers and what we learned today.
 
-324
+326
 00:20:58,560 --> 00:20:59,920
 Yes, you're right.
 
-325
+327
 00:20:59,920 --> 00:21:01,160
 Let's wrap up.
 
-326
+328
 00:21:01,160 --> 00:21:06,120
 So today's big topic was talking about vacation.
 
-327
+329
 00:21:06,120 --> 00:21:07,120
 That's right.
 
-328
+330
 00:21:07,120 --> 00:21:13,640
 We practiced how to talk about past vacations, like your trip to Greece and my visit to Canada.
 
-329
+331
 00:21:13,640 --> 00:21:19,440
 And we also practiced talking about future vacation dreams, like my dream to go to Brazil
 
-330
+332
 00:21:19,440 --> 00:21:21,960
 and your dream to visit Japan.
 
-331
+333
 00:21:21,960 --> 00:21:24,200
 We used a lot of useful grammar.
 
-332
+334
 00:21:24,200 --> 00:21:30,040
 We use the past tense a lot, like I visited, I swam, I ate.
 
-333
+335
 00:21:30,040 --> 00:21:35,840
 And we use the future tense, like I am planning to go, and I want to see.
 
-334
+336
 00:21:35,840 --> 00:21:37,040
 Exactly.
 
-335
+337
 00:21:37,040 --> 00:21:39,800
 And we learned many, many new words.
 
-336
+338
 00:21:39,800 --> 00:21:41,520
 Let's remember some of them quickly.
 
-337
+339
 00:21:41,520 --> 00:21:42,520
 Okay.
 
-338
+340
 00:21:42,520 --> 00:21:47,000
 We had souvenir, that's a thing you buy to remember a trip.
 
-339
+341
 00:21:47,000 --> 00:21:48,940
 Like your magnets, Jack.
 
-340
+342
 00:21:48,940 --> 00:21:52,520
 Then we had hiking, that's walking in nature for fun.
 
-341
+343
 00:21:52,520 --> 00:21:55,320
 A word for me is spontaneous.
 
-342
+344
 00:21:55,320 --> 00:21:58,180
 It means doing something without a plan.
 
-343
+345
 00:21:58,180 --> 00:22:01,680
 And we are not very spontaneous, are we?
 
-344
+346
 00:22:01,680 --> 00:22:05,020
 No, we are planners.
 
-345
+347
 00:22:05,020 --> 00:22:07,900
 We also talked about dream vacation,
 
-346
+348
 00:22:07,900 --> 00:22:11,240
 which is the best vacation you can imagine.
 
-347
+349
 00:22:11,240 --> 00:22:15,160
 And local, which means from that place,
 
-348
+350
 00:22:15,160 --> 00:22:18,120
 like local food or local people.
 
-349
+351
 00:22:18,120 --> 00:22:20,360
 And finally, relaxing.
 
-350
+352
 00:22:20,360 --> 00:22:23,960
 That is the most important feeling for a good vacation.
 
-351
+353
 00:22:23,960 --> 00:22:25,740
 It is.
 
-352
+354
 00:22:25,740 --> 00:22:28,200
 Now, the most important part.
 
-353
+355
 00:22:28,200 --> 00:22:30,660
 We want to hear from you, our viewers.
 
-354
+356
 00:22:30,660 --> 00:22:33,780
 Yes, it's time for our question of the day.
 
-355
+357
 00:22:33,780 --> 00:22:37,260
 This is your chance to practice your English writing.
 
-356
+358
 00:22:37,260 --> 00:22:40,140
 Today's question is all about your dreams.
 
-357
+359
 00:22:40,140 --> 00:22:41,140
 Are you ready?
 
-358
+360
 00:22:41,140 --> 00:22:45,500
 The question is, what is your dream vacation?
 
-359
+361
 00:22:45,500 --> 00:22:48,300
 Where do you want to go and why?
 
-360
+362
 00:22:48,300 --> 00:22:51,940
 So tell us about the place you dream of visiting.
 
-361
+363
 00:22:51,940 --> 00:22:54,780
 What is the name of the country or city?
 
-362
+364
 00:22:54,780 --> 00:22:57,300
 And tell us why you want to go there.
 
-363
+365
 00:22:57,300 --> 00:23:02,180
 Is it for the food, the beaches, the history, the cities?
 
-364
+366
 00:23:02,180 --> 00:23:04,020
 For example, you could write,
 
-365
+367
 00:23:04,020 --> 00:23:06,420
 my dream vacation is Egypt.
 
-366
+368
 00:23:06,420 --> 00:23:09,700
 I want to see the pyramids because I love history.
 
-367
+369
 00:23:09,700 --> 00:23:13,100
 Or my dream vacation is Hawaii.
 
-368
+370
 00:23:13,100 --> 00:23:15,620
 I want to go there because I love the beach
 
-369
+371
 00:23:15,620 --> 00:23:17,140
 and warm weather.
 
-370
+372
 00:23:17,140 --> 00:23:20,100
 Try to use one of our new words if you can.
 
-371
+373
 00:23:20,100 --> 00:23:21,380
 Maybe you can write,
 
-372
+374
 00:23:21,380 --> 00:23:23,940
 I want to try the local food in Italy,
 
-373
+375
 00:23:23,940 --> 00:23:27,980
 or I think hiking in Peru would be amazing.
 
-374
+376
 00:23:27,980 --> 00:23:29,940
 Don't worry about making mistakes.
 
-375
+377
 00:23:29,940 --> 00:23:30,980
 It's okay.
 
-376
+378
 00:23:30,980 --> 00:23:33,300
 The most important thing is to try.
 
-377
+379
 00:23:33,300 --> 00:23:35,800
 We're here to learn together.
 
-378
+380
 00:23:35,800 --> 00:23:39,380
 We promise to read as many of your comments as we can.
 
-379
+381
 00:23:39,380 --> 00:23:42,900
 We love reading them and sometimes we even reply.
 
-380
+382
 00:23:42,900 --> 00:23:44,780
 It's so interesting for us to see
 
-381
+383
 00:23:44,780 --> 00:23:50,460
 all the different places you want to visit. The whole world is in the comments.
 
-382
+384
 00:23:50,460 --> 00:23:56,240
 Before we finish, we have a small request. If you enjoyed this English lesson today,
 
-383
+385
 00:23:56,240 --> 00:23:57,240
 please let us know.
 
-384
+386
 00:23:57,240 --> 00:24:01,420
 Yes, if the conversation was helpful for you, please click the like button. It's right
 
-385
+387
 00:24:01,420 --> 00:24:03,100
 below the video.
 
-386
+388
 00:24:03,100 --> 00:24:09,160
 And if you haven't already, please subscribe to our channel, Daily English Talk. When
 
-387
+389
 00:24:09,160 --> 00:24:12,500
 you subscribe, you don't miss our next video.
 
-388
+390
 00:24:12,500 --> 00:24:18,340
 We make new conversations every week about different topics like going to the doctor,
 
-389
+391
 00:24:18,340 --> 00:24:21,340
 ordering food, or talking about hobbies.
 
-390
+392
 00:24:21,340 --> 00:24:24,500
 So subscribe and join our English practice family.
 
-391
+393
 00:24:24,500 --> 00:24:29,700
 Tell us in the comments what topic you want for our next video.
 
-392
+394
 00:24:29,700 --> 00:24:32,980
 Thank you so much for spending your time with us today.
 
-393
+395
 00:24:32,980 --> 00:24:35,580
 You are all great students.
 
-394
+396
 00:24:35,580 --> 00:24:40,380
 Keep practicing, keep learning, and don't forget to have fun with English.
 
-395
+397
 00:24:40,380 --> 00:24:41,380
 Bye everyone.
 
-396
+398
 00:24:41,380 --> 00:24:44,540
 Have a wonderful week and dream about your next vacation!
 
-397
+399
 00:24:44,540 --> 00:24:46,100
 Goodbye!
 
-398
+400
 00:24:46,100 --> 00:24:47,260
 See you in the next video!
